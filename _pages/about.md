@@ -47,5 +47,5 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-For more information, please find in [ORCID](https://orcid.org/0000-0001-7869-9083), [Google Scholar](https://scholar.google.com/citations?user=XuSVdhgAAAAJ), and [Researcher ID](https://www.webofscience.com/wos/author/record/HLX-9012-2023). 
+For more information, please find in [ORCID](https://orcid.org/0000-0001-7869-9083), [Google Scholar](https://scholar.google.com/citations?user=XuSVdhgAAAAJ), and [ResearcherID](https://www.webofscience.com/wos/author/record/HLX-9012-2023). 
 
