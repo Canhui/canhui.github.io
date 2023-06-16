@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.Eng, Shandong University, 2016/06
-* PhD, Hong Kong Baptist University, Advisor Prof.Xiaowen Chu, 2023/06
+* B.Eng., Shandong University, 2012/09-2016/06
+* Ph.D., Hong Kong Baptist University, Advisor Prof. Xiaowen Chu, 2017/09-2023/06
 
 Work experience
 ======
