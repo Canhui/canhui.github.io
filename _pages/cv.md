@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+# title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -20,7 +20,7 @@ Work experience
   * Hong Kong Baptist University
   * Project on: User-Controlled Secure Data Sharing and Analytics with Blockchain and Trusted Computing Technologies
 
-* Fall 2015: Research Assistant
+* Teaching Assistant, Fall 2015: Research Assistant
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
@@ -46,11 +46,7 @@ Work experience
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul> -->
   
-T<!-- eaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
+
   
 Service and leadership
 ======
