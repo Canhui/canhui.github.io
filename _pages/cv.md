@@ -25,6 +25,7 @@ Work experience
   * Hong Kong Baptist University
   * Duties included: GPU Implementation of Cryptography Primitives
   * Instructor: Prof. Xiaowen Chu
+
   
 <!-- Skills
 ======
