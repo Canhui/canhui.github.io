@@ -87,7 +87,7 @@ author:
   # employer         : "Hong Kong Baptist University"
   # #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   # googlescholar    : "https://scholar.google.com/citations?user=XuSVdhgAAAAJ"
-  email            : "chwang@hqu.edu.cn"
+  # email            : "chwang@hqu.edu.cn"
   # researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   # uri              :
   # bitbucket        :
@@ -102,7 +102,7 @@ author:
   # impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   # lastfm           :
   # linkedin         :
-  orcid            : "https://orcid.org/0000-0001-7869-9083"
+  # orcid            : "https://orcid.org/0000-0001-7869-9083"
   # pinterest        :
   # soundcloud       :
   # stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -110,7 +110,7 @@ author:
   # tumblr           :
   # #twitter          : "replacethistwitterhandle"
   # vine             :
-  weibo            : "https://m.weibo.cn/profile/7477933284"
+  weibo            : "https://m.weibo.cn/u/7477933284?luicode=10000011&lfid=1076037477933284"
   bilibili            : "test"
   # xing             :
   # youtube          :
