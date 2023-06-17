@@ -21,11 +21,34 @@ Work experience
   * Project on: User-Controlled Secure Data Sharing and Analytics with Blockchain and Trusted Computing Technologies
   * Instructor: Prof. Jianliang Xu, Prof. Xiaowen Chu
 
+* Reaching Assistant, 2020-2021 Semester 1
+  * Hong Kong Baptist University
+  * Course on: Design and Analysis of Algorithms (Give Weekly Exercise Tutorials)
+  * Award: Teaching-Assistant Performance Award
+  * Instructor: Prof. Yiu Ming Cheung
+  
+* Reaching Assistant, 2019-2020 Semester 2
+  * Hong Kong Baptist University
+  * Course on: Design and Analysis of Algorithms (Give Weekly Exercise Tutorials)
+  * Award: Excellent Teaching-Assistant Performance Award
+  * Instructor: Prof. Yiu Ming Cheung
+  
+* Reaching Assistant, 2018-2019 Semester 2
+  * Hong Kong Baptist University
+  * Course on: Operating Systems
+  * Award: Teaching-Assistant Performance Award
+  * Instructor: Prof. Yiu Wing Leung
+
+* Reaching Assistant, 2018-2019 Semester 1
+  * Hong Kong Baptist University
+  * Course on: Principles and Practices of Data Analytics
+  * Award: Outstanding Teaching-Assistant Performance Award
+  * Instructor: Prof. Liang Lan
+
 * Research Assistant, 2016/07-2017/09
   * Hong Kong Baptist University
-  * Duties included: GPU Implementation of Cryptography Primitives
-  * Instructor: Prof. Xiaowen Chu
-
+  * Project on: GPU Implementation of Cryptography Primitives
+  * Instructor: Prof. Xiaowen Chu  
 
   
 <!-- Skills
@@ -53,4 +76,4 @@ Work experience
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Reviewer (journal): IEEE Network Magazine, 2023
