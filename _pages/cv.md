@@ -21,9 +21,9 @@ Work experience
   * Project on: User-Controlled Secure Data Sharing and Analytics with Blockchain and Trusted Computing Technologies
   * Instructor: Prof. Jianliang Xu, Prof. Xiaowen Chu
 
-* Teaching Assistant, Fall 2015: Research Assistant
+* Research Assistant, 2016/07-2017/09
   * Hong Kong Baptist University
-  * Duties included: Implementation of Cryptography Primitives on GPU
+  * Duties included: GPU Implementation of Cryptography Primitives
   * Instructor: Prof. Xiaowen Chu
   
 <!-- Skills
