@@ -12,18 +12,19 @@ redirect_from:
 Education
 ======
 * B.Eng., Shandong University, 2012/09-2016/06
-* Ph.D., Hong Kong Baptist University, Advisor Prof. Xiaowen Chu, 2017/09-2023/06
+* Ph.D., Hong Kong Baptist University, Advisor Prof. Xiaowen Chu, Committee Members Prof. Bin Xiao, Dr. Qiang Tang, 2017/09-2023/06
 
 Work experience
 ======
 * Research Assistant, 2023/04-Present
   * Hong Kong Baptist University
   * Project on: User-Controlled Secure Data Sharing and Analytics with Blockchain and Trusted Computing Technologies
+  * Instructor: Prof. Jianliang Xu, Prof. Xiaowen Chu
 
 * Teaching Assistant, Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Hong Kong Baptist University
+  * Duties included: Implementation of Cryptography Primitives on GPU
+  * Instructor: Prof. Xiaowen Chu
   
 <!-- Skills
 ======
