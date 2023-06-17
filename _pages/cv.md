@@ -43,7 +43,7 @@ Work experience
   * Hong Kong Baptist University
   * Course on: Principles and Practices of Data Analytics
   * Award: Outstanding Teaching-Assistant Performance Award
-  * Instructor: Prof. Liang Lan
+  * Instructor: Dr. Liang Lan
 
 * Research Assistant, 2016/07-2017/09
   * Hong Kong Baptist University
