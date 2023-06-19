@@ -23,13 +23,13 @@ Work experience
 
 * Teaching Assistant, 2020-2021 Semester 1
   * Hong Kong Baptist University
-  * Course on: Design and Analysis of Algorithms (Give Weekly Exercise Tutorials)
+  * Course on: Design and Analysis of Algorithms (I gave weekly tutorials on class)
   * Award: Teaching-Assistant Performance Award
   * Instructor: Prof. Yiu Ming Cheung
   
 * Teaching Assistant, 2019-2020 Semester 2
   * Hong Kong Baptist University
-  * Course on: Design and Analysis of Algorithms (Give Weekly Exercise Tutorials)
+  * Course on: Design and Analysis of Algorithms (I gave weekly tutorials on class)
   * Award: Excellent Teaching-Assistant Performance Award
   * Instructor: Prof. Yiu Ming Cheung
   
