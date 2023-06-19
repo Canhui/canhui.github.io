@@ -19,7 +19,7 @@ Work experience
 * Research Assistant, 2023/04-Present
   * Hong Kong Baptist University
   * Project on: User-Controlled Secure Data Sharing and Analytics with Blockchain and Trusted Computing Technologies
-  * Instructor: Prof. Jianliang Xu, Prof. Xiaowen Chu
+  * Principal Investigator(s): Prof. Jianliang Xu (with effect from 16 June 2023), Prof. Xiaowen Chu
 
 * Teaching Assistant, 2020-2021 Semester 1
   * Hong Kong Baptist University
@@ -48,7 +48,7 @@ Work experience
 * Research Assistant, 2016/07-2017/09
   * Hong Kong Baptist University
   * Project on: GPU Implementation of Cryptography Primitives
-  * Instructor: Prof. Xiaowen Chu  
+  * Principal Investigator: Prof. Xiaowen Chu  
 
   
 <!-- Skills
