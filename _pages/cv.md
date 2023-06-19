@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.Eng., Shandong University, 2012/09-2016/06
-* Ph.D., Hong Kong Baptist University, Advisor Prof. Xiaowen Chu, External Committee Members Prof. Bin Xiao, Dr. Qiang Tang, 2017/09-2023/06
+* Ph.D., Hong Kong Baptist University, Principal Advisor Prof. Xiaowen Chu, External Committee Members Prof. Bin Xiao, Dr. Qiang Tang, 2017/09-2023/06
 
 Work experience
 ======
