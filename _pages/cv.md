@@ -21,6 +21,11 @@ Work experience
   * Project on: User-Controlled Secure Data Sharing and Analytics with Blockchain and Trusted Computing Technologies
   * Principal Investigator(s): Prof. Jianliang Xu (with effect from 16 June 2023), Prof. Xiaowen Chu
 
+* Teaching Assistant, 2020-2021 Semester 2
+  * Hong Kong Baptist University
+  * Course on: Advanced Programming for Software Development (i.e., C++ object oriented programming and partially software engineering)
+  * Instructor: Prof. Xiaowen Chu
+
 * Teaching Assistant, 2020-2021 Semester 1
   * Hong Kong Baptist University
   * Course on: Design and Analysis of Algorithms (i.e., Prof. Cheung and I gave weekly tutorials in class)
@@ -32,6 +37,11 @@ Work experience
   * Course on: Design and Analysis of Algorithms (i.e., Prof. Cheung and I gave weekly tutorials in class)
   * Award: Excellent Teaching-Assistant Performance Award
   * Instructor: Prof. Yiu Ming Cheung
+
+* Teaching Assistant, 2019-2020 Semester 2
+  * Hong Kong Baptist University
+  * Course on: Distributed and Cloud Computing
+  * Instructor: Prof. Byron Choi
   
 * Teaching Assistant, 2018-2019 Semester 2
   * Hong Kong Baptist University
@@ -45,12 +55,34 @@ Work experience
   * Award: Outstanding Teaching-Assistant Performance Award
   * Instructor: Dr. Liang Lan
 
+* Teaching Assistant, 2017-2018 Semester 2
+  * Hong Kong Baptist University
+  * Course on: Data Communication and Networking
+  * Instructor: Prof. Xiaowen Chu
+
 * Research Assistant, 2016/07-2017/09
   * Hong Kong Baptist University
   * Project on: GPU Implementation of Cryptography Primitives
-  * Principal Investigator: Prof. Xiaowen Chu  
+  * Principal Investigator: Prof. Xiaowen Chu
 
+Skills
+======  
+* RPG Student, 2018-2019 Semester 2
+  * Hong Kong Baptist University
+  * Course on: Analytic Methods for Computer Science Research (i.e., linear solvers and nonlinear optimization)
+  * Instructor: Prof. Walter Gander
+
+* RPG Student, 2017-2018 Semester 2
+  * Hong Kong Baptist University
+  * Course on: Financial Analysis & Decision Making (i.e., financial analysis)
+  * Instructor: Dr. LAI, Jean Hok Yin
+
+* RPG Student, 2017-2018 Semester 1
+  * Hong Kong Baptist University
+  * Course on: Information Processing in Financial Services (i.e., financial concepts)
+  * Instructor: Dr. LAI, Jean Hok Yin
   
+
 <!-- Skills
 ======
 * Skill 1
