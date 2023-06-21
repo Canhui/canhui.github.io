@@ -12,7 +12,7 @@ This is a test. This is the front page of a website that is powered by the [acad
 
 Recent news
 ======
-**News on June 15, 2023:** Congratulations to a success of my Ph.D. dissertation defense, due to the quantitative analysis and the long-term validation by Prof. Xiaowen Chu and me on performance modeling and analysis of Bitcoin and Hyperledger Fabric blockchain distributed systems.
+**News on June 15, 2023:** Congratulations to a success of my Ph.D. dissertation defense, due to the quantitative analytics and the long-term validations by Prof. Xiaowen Chu and me on performance modeling and analysis of Bitcoin and Hyperledger Fabric blockchain distributed systems.
 
 
 Job openings
