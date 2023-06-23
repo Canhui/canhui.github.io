@@ -69,7 +69,7 @@ Skills
 ======  
 * RPG Student, 2018-2019 Semester 2
   * Hong Kong Baptist University
-  * Course on: Analytic Methods for Computer Science Research (i.e., linear solvers and nonlinear optimization)
+  * Course on: Analytic Methods for Computer Science Research (i.e., linear programming and nonlinear convex optimization)
   * Instructor: Prof. Walter Gander
 
 * RPG Student, 2017-2018 Semester 2
