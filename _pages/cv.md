@@ -42,6 +42,11 @@ Work experience
   * Hong Kong Baptist University
   * Course on: Distributed and Cloud Computing
   * Instructor: Prof. Byron Choi
+
+* Teaching Assistant, 2019-2020 Semester 1
+  * Hong Kong Baptist University
+  * Course on: Internet and World Wide Web
+  * Instructor: Dr. Tony Chan
   
 * Teaching Assistant, 2018-2019 Semester 2
   * Hong Kong Baptist University
@@ -59,6 +64,11 @@ Work experience
   * Hong Kong Baptist University
   * Course on: Data Communication and Networking
   * Instructor: Prof. Xiaowen Chu
+
+* Teaching Assistant, 2017-2018 Semester 1
+  * Hong Kong Baptist University
+  * Course on: IT Project Skills
+  * Instructor: Dr. Hon Wah Tam and Dr. Kristen Y.X. Li 
 
 * Research Assistant, 2016/07-2017/09
   * Hong Kong Baptist University
