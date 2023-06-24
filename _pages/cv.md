@@ -95,7 +95,11 @@ Skills
   * Hong Kong Baptist University
   * Course on: Information Processing in Financial Services (i.e., financial concepts)
   * Instructor: Dr. LAI, Jean Hok Yin
-  
+
+* RPG Student, 2017-2018 Semester 1
+  * Hong Kong Baptist University
+  * Course on: Advanced English for Academic Purposes
+  * Instructor: Dr. Cissy Li and Ms. Patricia Warren
 
 <!-- Skills
 ======
