@@ -16,7 +16,7 @@ Education
 
 Some technical projects
 ======
-* Throughput and Latency Modeling on a Local Cluster (Hong Kong base) and an Alibaba Cloud Cluster (Guangzhou base), 2020/01-2023/07
+* Throughput and Latency Modeling on a Local Cluster (Hong Kong Base) and an Alibaba Cloud Cluster (Guangzhou Base), 2020/01-2023/07
   * Hong Kong Baptist University
   * Output: Enclosed in my Ph.D. Thesis
   * Principal Investigator: Prof. Xiaowen Chu
@@ -30,7 +30,6 @@ Some technical projects
   * Hong Kong Baptist University
   * Output: The papers "GPU accelerated AES algorithm" and "GPU accelerated Keccak (SHA3) algorithm"
   * Principal Investigator: Prof. Xiaowen Chu
-
 
 Work experience
 ======
