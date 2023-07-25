@@ -16,7 +16,7 @@ Education
 
 Some technical projects
 ======
-* Throughput and Latency Modeling on a Local Cluster (Hong Kong base) and an Alibaba Cloud Cluster (GuangZhou base), 2020/01-2023/07
+* Throughput and Latency Modeling on a Local Cluster (Hong Kong base) and an Alibaba Cloud Cluster (Guangzhou base), 2020/01-2023/07
   * Hong Kong Baptist University
   * Output: Enclosed in my Ph.D. Thesis
   * Principal Investigator: Prof. Xiaowen Chu
@@ -119,8 +119,6 @@ Skills
   * Course on: Advanced English for Academic Purposes
   * Instructor: Dr. Cissy Li and Ms. Patricia Warren
 
-
-
 <!-- Skills
 ======
 * Skill 1
@@ -142,7 +140,6 @@ Skills
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul> -->
   
-
 Service and leadership
 ======
 * Reviewer (journal): IEEE Network Magazine, 2023
