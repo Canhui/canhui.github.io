@@ -16,7 +16,7 @@ Education
 
 Some technical projects
 ======
-* Throughput and Latency Modeling on a Local Cluster (Hong Kong base) and a Alibaba Cloud Cluster (GuangZhou base), 2020/01-2023/07
+* Throughput and Latency Modeling on a Local Cluster (Hong Kong base) and an Alibaba Cloud Cluster (GuangZhou base), 2020/01-2023/07
   * Hong Kong Baptist University
   * Output: Enclosed in my Ph.D. Thesis
   * Principal Investigator: Prof. Xiaowen Chu
