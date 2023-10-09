@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-Canhui Wang is currently a lecture with the department of computer science and technology, Huaqiao University, Xiamen; He is also a senior engineer (PI) with the ASTRI security lab, Hong Kong Applied Science and Technology Research Institute, Hong Kong. He received his Ph.D. degree with the department of computer science, Hong Kong Baptist University, under the supervision of Prof. Xiaowen Chu in 2023. His research interests are networking, distributed computing, and security.
+Canhui Wang is currently a lecture with the department of computer science and technology, Huaqiao University, Xiamen; He is also a senior engineer (PI) with the ASTRI security lab (ASL实验室), Hong Kong Applied Science and Technology Research Institute (香港应科院), Hong Kong. He received his Ph.D. degree with the department of computer science, Hong Kong Baptist University, under the supervision of Prof. Xiaowen Chu in 2023. His research interests are networking, distributed computing, and security.
 
 
 Recent news
@@ -59,4 +59,4 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-You may contact me via emails: chwang@hqu.edu.cn or canhuiwang@astri.org. For more information, please find in [ORCID](https://orcid.org/0000-0001-7869-9083), [Google Scholar](https://scholar.google.com/citations?user=_pEPpkUAAAAJ), and [Web of Science ResearcherID](https://www.webofscience.com/wos/author/record/HLX-9012-2023). 
+You may reach me via emails: chwang@hqu.edu.cn or canhuiwang@astri.org. For more information, please find in [ORCID](https://orcid.org/0000-0001-7869-9083), [Google Scholar](https://scholar.google.com/citations?user=_pEPpkUAAAAJ), and [Web of Science ResearcherID](https://www.webofscience.com/wos/author/record/HLX-9012-2023). 
