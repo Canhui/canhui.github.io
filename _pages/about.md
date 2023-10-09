@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-This is a test. This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io). His research interests are networking, distributed computing, and security. 
+Canhui Wang is currently a lecture with the department of computer science and technology, Huaqiao University, Xiamen; He is also a senior engineer (PI) with the ASTRI security lab, Hong Kong Applied Science and Technology Research Institute, Hong Kong. He received his Ph.D. degree with the department of computer science, Hong Kong Baptist University, under the supervision of Prof. Xiaowen Chu in 2023. His research interests are networking, distributed computing, and security.
+
 
 Recent news
 ======
@@ -55,4 +56,4 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-For more information, please find in [ORCID](https://orcid.org/0000-0001-7869-9083), [Google Scholar](https://scholar.google.com/citations?user=XuSVdhgAAAAJ), and [Web of Science ResearcherID](https://www.webofscience.com/wos/author/record/HLX-9012-2023). 
+For more information, please find in [ORCID](https://orcid.org/0000-0001-7869-9083), [Google Scholar](https://scholar.google.com/citations?user=_pEPpkUAAAAJ), and [Web of Science ResearcherID](https://www.webofscience.com/wos/author/record/HLX-9012-2023). 
