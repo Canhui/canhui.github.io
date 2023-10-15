@@ -210,7 +210,6 @@ defaults:
       layout: single
       author_profile: true
   # _teaching
-
   - scope:
       path: ""
       type: teaching
@@ -219,8 +218,7 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  _publications
-  
+  # _publications
   - scope:
       path: ""
       type: publications
