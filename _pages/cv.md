@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.Eng., Shandong University, 2012/09-2016/06
-* Ph.D., Hong Kong Baptist University, Principal Supervisor Prof. Xiaowen Chu, External Committee Members Prof. Bin Xiao, Dr. Qiang Tang, 2017/09-2023/06
+* Ph.D., Hong Kong Baptist University, Principal Supervisor [Prof. Xiaowen Chu](https://www.comp.hkbu.edu.hk/~chxw/), External Committee Members [Prof. Bin Xiao](https://web.comp.polyu.edu.hk/csbxiao/), [Dr. Qiang Tang](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/qiang-tang.html), 2017/09-2023/06
 
 Some technical projects
 ======
