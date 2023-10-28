@@ -116,7 +116,8 @@ Skills
 * RPG Student, 2017-2018 Semester 1
   * Hong Kong Baptist University
   * Course on: Advanced English for Academic Purposes
-  * Instructor: [Dr. Cissy Li](https://artsbu.hkbu.edu.hk/about-us/our-community-of-teachers-and-researchers/dr-cissy-li) and [Ms. Patricia Warren](https://biography.omicsonline.org/china/hong-kong-baptist-university-hkbu/patricia-warren-206075)
+  * Instructor: [Dr. Cissy Y. X. Li](https://artsbu.hkbu.edu.hk/about-us/our-community-of-teachers-and-researchers/dr-cissy-li) and [Ms. Patricia Warren](https://biography.omicsonline.org/china/hong-kong-baptist-university-hkbu/patricia-warren-206075)
+
 
 <!-- Skills
 ======
