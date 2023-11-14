@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-Canhui Wang is currently a lecturer with the department of computer science and technology, Huaqiao University, Xiamen; He is also a senior engineer (PI) with Applied Cryptosystems, Trust and AI technologies at the ASTRI security lab (應科院網絡安全研究所), Hong Kong Applied Science and Technology Research Institute (香港應科院), Sha Tin, Hong Kong, under the direction of [Dr. Eric P. F. Lam](https://www.linkedin.com/in/peifunglam2/). He received his Ph.D. degree with the department of computer science, Hong Kong Baptist University, Kowloon Tong, Hong Kong, under the supervision (principal) of [Prof. Xiaowen Chu](https://www.linkedin.com/in/xiaowen-chu-477b9120/), in 2023. His research interest focuses on networking, distributed computing, and security.
+Canhui Wang is currently a lecturer with the department of computer science and technology, Huaqiao University, Xiamen; He is also a senior engineer (PI) with Applied Cryptosystems, Trust and AI technologies at the ASTRI Security Lab (應科院網絡安全研究所), Hong Kong Applied Science and Technology Research Institute (香港應科院), Sha Tin, Hong Kong, under the direction of [Dr. Eric P. F. Lam](https://www.linkedin.com/in/peifunglam2/). He received his Ph.D. degree with the department of computer science, Hong Kong Baptist University, Kowloon Tong, Hong Kong, under the supervision (principal) of [Prof. Xiaowen Chu](https://www.linkedin.com/in/xiaowen-chu-477b9120/), in 2023. His research interest focuses on networking, distributed computing, and security.
 
 
 Recent news
