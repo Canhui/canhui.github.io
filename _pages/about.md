@@ -60,3 +60,6 @@ Example: editing a markdown file for a talk
 For more info
 ------
 You may reach me via emails: <ins>chwang@hqu.edu.cn</ins> or <ins>canhuiwang@astri.org</ins>. For more information, please find in [ORCID](https://orcid.org/0000-0001-7869-9083), [Google Scholar](https://scholar.google.com/citations?user=_pEPpkUAAAAJ), [Linkedin](https://www.linkedin.com/in/canhui-wang-54a84017a), and [Web of Science ResearcherID](https://www.webofscience.com/wos/author/record/HLX-9012-2023). 
+
+
+Last updated Nov, 2023
