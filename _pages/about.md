@@ -14,7 +14,7 @@ Canhui Wang is currently a lecturer with the department of computer science and 
 
 Recent news
 ======
-[2023$-$06]: Congratulations to a success of my Ph.D. dissertation defense, for the contribution of quantitative analytics and long-term validations by Prof. Xiaowen Chu and me, on performance modeling and analysis of Bitcoin and Hyperledger Fabric blockchain distributed systems.
+[2023 /- 06]: Congratulations to a success of my Ph.D. dissertation defense, for the contribution of quantitative analytics and long-term validations by Prof. Xiaowen Chu and me, on performance modeling and analysis of Bitcoin and Hyperledger Fabric blockchain distributed systems.
 
 
 <!-- for the contribution  -->
