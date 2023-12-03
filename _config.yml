@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Homepage"
 title_separator          : "-"
-name                     : &name "Canhui Wang, Ph.D."
+name                     : &name "Canhui Wang"
 description              : &description "Homepage"
 url                      : https://canhui.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Canhui Wang"
+  name             : "Canhui Wang, Ph.D."
   avatar           : "profile.png"
   bio              : "Lecturer with the Department of Computer Science and Technology, Huaqiao University, Xiamen; and also Senior Engineer (PI) with Applied Cryptosystems, Trust and AI technologies (應用加密系統，可信及人工智能技術), at ASTRI Security Lab (應科院網絡安全研究所), Hong Kong Applied Science and Technology Research Institute (香港應科院), Hong Kong"
   location         : "Hong Kong"
