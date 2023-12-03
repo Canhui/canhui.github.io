@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "        Personal Webpage "
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Canhui Wang"
 description              : &description "personal webpage"
