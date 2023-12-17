@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-Canhui Wang is currently a lecturer with the department of computer science and technology, Huaqiao University, Xiamen; He is also a senior engineer (PI) with a full sponsorship by Research Talent Hub, Innovation and Technology Fund (RTH-ITF), with Applied Cryptosystems, Trust and AI technologies (應用加密系統，可信及人工智能技術), at the ASTRI Security Lab (應科院網絡安全研究所), Hong Kong Applied Science and Technology Research Institute (香港應科院), Sha Tin, Hong Kong, working with [Dr. Eric P. F. Lam](https://www.linkedin.com/in/peifunglam2/). He received his Ph.D. degree with the department of computer science, Hong Kong Baptist University, Kowloon Tong, Hong Kong, under the supervision of [Prof. Xiaowen Chu](https://www.linkedin.com/in/xiaowen-chu-477b9120/), in 2023. His research interest focuses on parallel & distributed computing, security.
+Canhui Wang is currently a lecturer with the department of computer science and technology, Huaqiao University, Xiamen; He is also a senior engineer (PI) with a full sponsorship by Research Talent Hub, Innovation and Technology Fund (RTH-ITF), with Applied Cryptosystems, Trust and AI technologies (應用加密系統，可信及人工智能技術), at the ASTRI Security Lab (應科院網絡安全研究所), Hong Kong Applied Science and Technology Research Institute (香港應科院), Sha Tin, Hong Kong, working with [Dr. Eric P. F. Lam](https://www.linkedin.com/in/peifunglam2/). He received his Ph.D. degree with the department of computer science, Hong Kong Baptist University, Kowloon Tong, Hong Kong, under the supervision of [Prof. Xiaowen Chu](https://www.linkedin.com/in/xiaowen-chu-477b9120/), in 2023. His research interest focuses on networking, parallel & distributed computing, security.
 
 
 Recent news
@@ -64,6 +64,6 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-You may reach me via emails: <ins>chwang@hqu.edu.cn</ins> or <ins>canhuiwang@astri.org</ins>. For more information, please find in [ORCID](https://orcid.org/0000-0001-7869-9083), [Google Scholar](https://scholar.google.com/citations?user=_pEPpkUAAAAJ), [Linkedin](https://www.linkedin.com/in/canhui-wang-54a84017a), and [Web of Science ResearcherID](https://www.webofscience.com/wos/author/record/HLX-9012-2023). 
+You may reach me via emails: <ins>chwang@hqu.edu.cn</ins> or <ins>canhuiwang@astri.org</ins>. For more information, please find in [ORCID](https://orcid.org/0000-0001-7869-9083), [Google Scholar](https://scholar.google.com/citations?user=_pEPpkUAAAAJ), [Linkedin](https://www.linkedin.com/in/canhui-wang-ph-d-54a84017a/), and [Web of Science ResearcherID](https://www.webofscience.com/wos/author/record/HLX-9012-2023). 
 
 
