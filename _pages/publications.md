@@ -27,13 +27,13 @@ Another test
 
 
 
-Some technical projects
+2023
 ======
 
-* Throughput and Latency Modeling on a Local Cluster (Hong Kong Base) and an Alibaba Cloud Cluster (Guangzhou Base), 2020/01-2023/07
+* Test
 
-  * Hong Kong Baptist University
+  * Test
 
-  * Output: Enclosed in my Ph.D. Thesis
+  * Test
 
     
