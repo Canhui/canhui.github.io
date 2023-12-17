@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "2023"
+title: "Selected Publications"
 permalink: /publications/
 author_profile: true
 ---
@@ -17,7 +17,7 @@ author_profile: true
 
 
 
-Publications
+ (* indicates corresponding author)
 
 
 
