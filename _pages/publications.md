@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: "2023"
 permalink: /publications/
 author_profile: true
 ---
@@ -17,6 +17,7 @@ author_profile: true
 
 
 
+Publications
 
 
 
@@ -24,8 +25,7 @@ author_profile: true
 
 
 
-
-2023
+2022
 ======
 
 * Test
