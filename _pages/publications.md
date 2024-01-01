@@ -16,7 +16,29 @@ author_profile: true
 {% endfor %}
 
 
- (* indicates corresponding author)
+ (* indicates corresponding author; A Full list: [Google Scholar](https://scholar.google.com/citations?user=_pEPpkUAAAAJ))
+
+
+2023
+======
+
+**Dissecting Mining Pools of Bitcoin Network: Measurement, Analysis and Modeling**
+
+<ins>Canhui Wang</ins>; Xiaowen Chu; Yang Qin
+
+*IEEE Transactions on Network Science and Engineering, 2023, Regular Papers* 
+
+[Paper](https://ieeexplore.ieee.org/abstract/document/9907879) [Code](https://github.com/Canhui/AppendixBTC)
+
+---
+
+**A blockchain-enabled framework for enhancing scalability and security in IIoT**
+
+Ruonan Li; Yang Qin; <ins>Canhui Wang</ins>; Mengya Li; Xiaowen Chu
+
+*IEEE Transactions on Industrial Informatics, 2023, Regular Papers* 
+
+[Paper](https://ieeexplore.ieee.org/abstract/document/9904919)
 
 
 2020
@@ -55,13 +77,6 @@ Test Böhme, Rainer, Nicolas Christin, Benjamin Edelman, and Tyler Moore and <in
 ---
 
 
-2022
-======
 
-* Test
-
-  * Test
-
-  * Test
 
     
