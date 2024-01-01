@@ -31,16 +31,17 @@ Test Böhme, Rainer, Nicolas Christin, Benjamin Edelman, and Tyler Moore and <in
 
 *International Conference* 
 
-[Paper](https://dd) Code
+[Paper](https://dd) [Code](https://dd)
 
 ---
 
-Test Böhme, Rainer, Nicolas Christin, Benjamin Edelman, and Tyler Moore. "Bitcoin: Economics, technology, and governance." Journal of economic Perspectives 29, no. 2 (2015): 213-238.
+**Test Böhme, Rainer, Nicolas Christin, Benjamin Edelman, and Tyler Moore. "Bitcoin: Economics, technology, and governance." Journal of economic Perspectives 29, no. 2 (2015): 213-238.**
 
-Test Böhme, Rainer, Nicolas Christin, Benjamin Edelman, and Tyler Moore
+Test Böhme, Rainer, Nicolas Christin, Benjamin Edelman, and Tyler Moore and <ins>Tyler Moore</ins>
 
-Paper Code
+*International Conference* 
 
+[Paper](https://dd) [Code](https://dd)
 
 ---
 
