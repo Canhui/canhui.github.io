@@ -28,7 +28,7 @@ author_profile: true
 
 *IEEE Transactions on Network Science and Engineering, 2023, Regular Papers* 
 
-[Paper](https://ieeexplore.ieee.org/abstract/document/9907879) [Code](https://github.com/Canhui/AppendixBTC)
+[Paper](https://ieeexplore.ieee.org/abstract/document/9907879) &nbsp; [Code](https://github.com/Canhui/AppendixBTC)
 
 ---
 
@@ -52,7 +52,7 @@ Ruonan Li; Yang Qin; <ins>Canhui Wang</ins>; Mengya Li; Xiaowen Chu
 
 *2020 IEEE 40th International Conference on Distributed Computing Systems (ICDCS) Workshop* 
 
-[Paper](https://ieeexplore.ieee.org/document/9355625) [Code](https://github.com/Canhui/fabric-dbench)
+[Paper](https://ieeexplore.ieee.org/document/9355625) &nbsp; [Code](https://github.com/Canhui/fabric-dbench)
 
 ---
 
@@ -66,17 +66,9 @@ Ruonan Li; Yang Qin; <ins>Canhui Wang</ins>; Mengya Li; Xiaowen Chu
 
 ---
 
-**Test Böhme, Rainer, Nicolas Christin, Benjamin Edelman, and Tyler Moore. "Bitcoin: Economics, technology, and governance." Journal of economic Perspectives 29, no. 2 (2015): 213-238.**
-
-Test Böhme, Rainer, Nicolas Christin, Benjamin Edelman, and Tyler Moore and <ins>Tyler Moore</ins>
-
-*International Conference* 
-
-[Paper](https://dd) [Code](https://dd)
-
----
 
 
 
 
-    
+
+
