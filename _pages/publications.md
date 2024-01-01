@@ -26,7 +26,7 @@ author_profile: true
 
 <ins>Canhui Wang</ins>; Xiaowen Chu; Yang Qin
 
-*IEEE Transactions on Network Science and Engineering, 2023, Regular Papers* 
+*IEEE Transactions on Network Science and Engineering (TNSE), 2023, Regular Paper* 
 
 [Paper](https://ieeexplore.ieee.org/abstract/document/9907879) &nbsp; [Code](https://github.com/Canhui/AppendixBTC)
 
@@ -36,7 +36,7 @@ author_profile: true
 
 Ruonan Li; Yang Qin; <ins>Canhui Wang</ins>; Mengya Li; Xiaowen Chu
 
-*IEEE Transactions on Industrial Informatics, 2023, Regular Papers* 
+*IEEE Transactions on Industrial Informatics (TII), 2023, Regular Paper* 
 
 [Paper](https://ieeexplore.ieee.org/abstract/document/9904919)
 
