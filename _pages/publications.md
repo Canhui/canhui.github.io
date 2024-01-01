@@ -31,7 +31,7 @@ author_profile: true
 
 *2020 6th International Conference on Big Data Computing and Communications (BIGCOM)* 
 
-[Paper](https://ieeexplore.ieee.org/document/9160462) [Code](https://github.com/Canhui/Bitcoin_Mining_Pools)
+[Paper](https://ieeexplore.ieee.org/document/9160462) &nbsp; [Code](https://github.com/Canhui/Bitcoin_Mining_Pools)
 
 ---
 
