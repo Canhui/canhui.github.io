@@ -26,7 +26,7 @@ author_profile: true
 
 
 
-- **Dissecting Mining Pools of Bitcoin Network: Measurement, Analysis and Modeling**
+**Dissecting Mining Pools of Bitcoin Network: Measurement, Analysis and Modeling**
 
 - <ins>Canhui Wang</ins>; Xiaowen Chu; Yang Qin
 
