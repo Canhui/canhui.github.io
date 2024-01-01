@@ -26,7 +26,7 @@ author_profile: true
 
 <ins>Canhui Wang</ins>; Xiaowen Chu; Yang Qin
 
-*IEEE Transactions on Network Science and Engineering (TNSE), 2023, Regular Paper* 
+*IEEE Transactions on Network Science and Engineering (TNSE), 2023, Regular Papers* 
 
 [Paper](https://ieeexplore.ieee.org/abstract/document/9907879) &nbsp; [Code](https://github.com/Canhui/AppendixBTC)
 
@@ -36,7 +36,7 @@ author_profile: true
 
 Ruonan Li; Yang Qin; <ins>Canhui Wang</ins>; Mengya Li; Xiaowen Chu
 
-*IEEE Transactions on Industrial Informatics (TII), 2023, Regular Paper* 
+*IEEE Transactions on Industrial Informatics (TII), 2023, Regular Papers* 
 
 [Paper](https://ieeexplore.ieee.org/abstract/document/9904919)
 
@@ -60,7 +60,7 @@ Ruonan Li; Yang Qin; <ins>Canhui Wang</ins>; Mengya Li; Xiaowen Chu
 
 <ins>Canhui Wang</ins>; Xiaowen Chu; Yang Qin
 
-*The 6th International Conference on Big Data Computing and Communications (BIGCOM), 2020, Inivited Paper* 
+*The 6th International Conference on Big Data Computing and Communications (BIGCOM), 2020, Inivited Papers* 
 
 [Paper](https://ieeexplore.ieee.org/document/9160462) &nbsp; [Code](https://github.com/Canhui/Bitcoin_Mining_Pools) &nbsp; 
 
