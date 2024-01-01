@@ -19,19 +19,19 @@ author_profile: true
  (* indicates corresponding author)
 
 
-2022
+2020
 ======
 
 ---
 
 
-**Test Böhme, Rainer, Nicolas Christin, Benjamin Edelman, and Tyler Moore. "Bitcoin: Economics, technology, and governance." Journal of economic Perspectives 29, no. 2 (2015): 213-238.**
+**Measurement and analysis of the bitcoin networks: A view from mining pools**
 
-Test Böhme, Rainer, Nicolas Christin, Benjamin Edelman, and Tyler Moore and <ins>Tyler Moore</ins>
+<ins>Canhui Wang</ins>; Xiaowen Chu; Yang Qin
 
-*International Conference* 
+*2020 6th International Conference on Big Data Computing and Communications (BIGCOM)* 
 
-[Paper](https://dd) [Code](https://dd)
+[Paper](https://ieeexplore.ieee.org/document/9160462) [Code](https://github.com/Canhui/Bitcoin_Mining_Pools)
 
 ---
 
