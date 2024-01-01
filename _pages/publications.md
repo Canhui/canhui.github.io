@@ -60,7 +60,7 @@ Ruonan Li; Yang Qin; <ins>Canhui Wang</ins>; Mengya Li; Xiaowen Chu
 
 <ins>Canhui Wang</ins>; Xiaowen Chu; Yang Qin
 
-*The 6th International Conference on Big Data Computing and Communications (BIGCOM), 2020, Inivited Paper* 
+*6th International Conference on Big Data Computing and Communications (BIGCOM), 2020, Inivited Paper* 
 
 [Paper](https://ieeexplore.ieee.org/document/9160462) &nbsp; [Code](https://github.com/Canhui/Bitcoin_Mining_Pools) &nbsp; 
 
