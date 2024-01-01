@@ -28,7 +28,7 @@ author_profile: true
 
 **Dissecting Mining Pools of Bitcoin Network: Measurement, Analysis and Modeling**
 
-<ins>Canhui Wang</ins>; Xiaowen Chu; Yang Qin
+<ins>Canhui Wang</ins>; Xiaowen Chu*; Yang Qin
 
 *IEEE Transactions on Network Science and Engineering (TNSE), 2023, Regular Papers* 
 
@@ -40,7 +40,7 @@ author_profile: true
 
 **A blockchain-enabled framework for enhancing scalability and security in IIoT**
 
-Ruonan Li; Yang Qin; <ins>Canhui Wang</ins>; Mengya Li; Xiaowen Chu
+Ruonan Li; Yang Qin*; <ins>Canhui Wang</ins>; Mengya Li; Xiaowen Chu
 
 *IEEE Transactions on Industrial Informatics (TII), 2023, Regular Papers* 
 
@@ -55,7 +55,7 @@ Ruonan Li; Yang Qin; <ins>Canhui Wang</ins>; Mengya Li; Xiaowen Chu
 
 **Performance characterization and bottleneck analysis of hyperledger fabric**
 
-<ins>Canhui Wang</ins>; Xiaowen Chu
+<ins>Canhui Wang</ins>; Xiaowen Chu*
 
 *IEEE 40th International Conference on Distributed Computing Systems (ICDCS) Workshop, 2020* 
 
@@ -65,7 +65,7 @@ Ruonan Li; Yang Qin; <ins>Canhui Wang</ins>; Mengya Li; Xiaowen Chu
 
 **Measurement and analysis of the bitcoin networks: A view from mining pools**
 
-<ins>Canhui Wang</ins>; Xiaowen Chu; Yang Qin
+<ins>Canhui Wang</ins>; Xiaowen Chu*; Yang Qin
 
 *The 6th International Conference on Big Data Computing and Communications (BIGCOM), 2020, Inivited Papers* 
 
