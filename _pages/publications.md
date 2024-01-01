@@ -50,7 +50,7 @@ Ruonan Li; Yang Qin; <ins>Canhui Wang</ins>; Mengya Li; Xiaowen Chu
 
 <ins>Canhui Wang</ins>; Xiaowen Chu
 
-*2020 IEEE 40th International Conference on Distributed Computing Systems (ICDCS) Workshop* 
+*IEEE 40th International Conference on Distributed Computing Systems (ICDCS) Workshop, 2020* 
 
 [Paper](https://ieeexplore.ieee.org/document/9355625) &nbsp; [Code](https://github.com/Canhui/fabric-dbench)
 
@@ -60,7 +60,7 @@ Ruonan Li; Yang Qin; <ins>Canhui Wang</ins>; Mengya Li; Xiaowen Chu
 
 <ins>Canhui Wang</ins>; Xiaowen Chu; Yang Qin
 
-*2020 6th International Conference on Big Data Computing and Communications (BIGCOM), Inivited Paper* 
+*The 6th International Conference on Big Data Computing and Communications (BIGCOM), 2020, Inivited Paper* 
 
 [Paper](https://ieeexplore.ieee.org/document/9160462) &nbsp; [Code](https://github.com/Canhui/Bitcoin_Mining_Pools) &nbsp; 
 
