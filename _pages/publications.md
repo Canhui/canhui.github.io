@@ -24,6 +24,15 @@ author_profile: true
 
 ---
 
+**Performance characterization and bottleneck analysis of hyperledger fabric**
+
+<ins>Canhui Wang</ins>; Xiaowen Chu
+
+*2020 IEEE 40th International Conference on Distributed Computing Systems (ICDCS) Workshop* 
+
+[Paper](https://ieeexplore.ieee.org/document/9355625) [Code](https://github.com/Canhui/fabric-dbench)
+
+---
 
 **Measurement and analysis of the bitcoin networks: A view from mining pools**
 
@@ -31,7 +40,7 @@ author_profile: true
 
 *2020 6th International Conference on Big Data Computing and Communications (BIGCOM)* 
 
-[Paper](https://ieeexplore.ieee.org/document/9160462) &nbsp; [Code](https://github.com/Canhui/Bitcoin_Mining_Pools)
+[Paper](https://ieeexplore.ieee.org/document/9160462) &nbsp; [Code](https://github.com/Canhui/Bitcoin_Mining_Pools) &nbsp; 
 
 ---
 
