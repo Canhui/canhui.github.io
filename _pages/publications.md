@@ -16,7 +16,7 @@ author_profile: true
 {% endfor %}
 
 
- (* indicates corresponding author; A Full list: [Google Scholar](https://scholar.google.com/citations?user=_pEPpkUAAAAJ))
+ (The symbol * indicates corresponding author; A Full list: [Google Scholar](https://scholar.google.com/citations?user=_pEPpkUAAAAJ))
 
 
 2023
