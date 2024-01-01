@@ -28,11 +28,11 @@ author_profile: true
 
 **Dissecting Mining Pools of Bitcoin Network: Measurement, Analysis and Modeling**
 
-- <ins>Canhui Wang</ins>; Xiaowen Chu; Yang Qin
+<ins>Canhui Wang</ins>; Xiaowen Chu; Yang Qin
 
-- *IEEE Transactions on Network Science and Engineering (TNSE), 2023, Regular Papers* 
+*IEEE Transactions on Network Science and Engineering (TNSE), 2023, Regular Papers* 
 
-- [Paper](https://ieeexplore.ieee.org/abstract/document/9907879) &nbsp; [Code](https://github.com/Canhui/AppendixBTC)
+[Paper](https://ieeexplore.ieee.org/abstract/document/9907879) &nbsp; [Code](https://github.com/Canhui/AppendixBTC)
 
 
 
