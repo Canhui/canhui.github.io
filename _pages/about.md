@@ -23,11 +23,8 @@ Recent news
 Recent activities
 ======
 IEEE Network Magazine, 2023, 2024 (reviewer)
-
 IEEE Transactions on Big Data, 2023 (reviewer)
-
 AIPR 2023 (Session Chair)
-
 IEEE HPCC, 2021 (reviewer)
 
 
