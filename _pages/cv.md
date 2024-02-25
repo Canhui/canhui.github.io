@@ -140,8 +140,8 @@ Skills
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul> -->
   
-<!--Service and leadership
+Service
 ======
-* Reviewer (journal): IEEE Network Magazine, 2023; IEEE Transactions on Big Data, 2023.
+* Reviewer (journal): IEEE Network Magazine, 2023, 2024; IEEE Transactions on Big Data, 2023.
 * Reviewer (conference): IEEE HPCC, 2021.
-* Session Chair (conference): AIPR 2023.-->
+* Session Chair (conference): AIPR 2023.
