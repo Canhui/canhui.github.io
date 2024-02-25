@@ -142,7 +142,7 @@ Skills
   
 Grants
 ======
-(参与)
+* ...(参与)
 
 Service
 ======
