@@ -151,5 +151,5 @@ Service
   * IEEE Transactions on Big Data, 2023.
 * Invited Reviewer (Conference)
   * IEEE HPCC, 2021.
-* Session Chair (conference)
+* Session Chair (Conference)
   * AIPR 2023.
