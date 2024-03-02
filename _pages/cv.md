@@ -142,7 +142,7 @@ Skills
   
 Grants
 ======
-* Trusted Data Framework for Data Exchanges (ARD/294), Innovation and Technology Fund, Hong Kong, 2.799百万港币 (备注: 项目由[Dr. Eric LAM](https://www.linkedin.com/in/peifunglam2/)主持, 本人参与, 本人参与内容[Polynomial Commitment Multiple Access](https://www.astri.org/rdprojects/trusted-data-framework-for-data-exchanges/), 2023/09-2024/04)
+* Trusted Data Framework for Data Exchanges (ARD/294), Innovation and Technology Fund, Hong Kong, 2.799百万港币 (备注: 1. 项目由[Dr. Eric LAM](https://www.linkedin.com/in/peifunglam2/)主持, 2. 本人参与, 3. 参与内容[Polynomial Commitment Multiple Access](https://www.astri.org/rdprojects/trusted-data-framework-for-data-exchanges/), 4. 参与时间: 2023/09-2024/04)
 
 Service
 ======
