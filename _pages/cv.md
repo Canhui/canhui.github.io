@@ -142,7 +142,7 @@ Skills
   
 Grants
 ======
-* Trusted Data Framework for Data Exchanges (ARD/294), 2.799百万港币 (项目由Dr. Eric LAM 主持, 本人参与)
+* Trusted Data Framework for Data Exchanges (ARD/294), Innovation and Technology Fund, Hong Kong, 2.799百万港币 (项目由Dr. Eric LAM 主持, 本人参与)
 
 Service
 ======
