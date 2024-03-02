@@ -142,7 +142,7 @@ Skills
   
 Grants
 ======
-* [Trusted Data Framework for Data Exchanges](https://www.astri.org/rdprojects/trusted-data-framework-for-data-exchanges/) (ARD/294), Dr. Eric LAM 主持, 2,799,000港币 (本人参与)
+* Trusted Data Framework for Data Exchanges (ARD/294), 2.799百万港币 (项目由Dr. Eric LAM 主持, 本人参与)
 
 Service
 ======
