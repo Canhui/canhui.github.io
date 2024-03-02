@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.Eng., Shandong University, 2012/09-2016/06
-* Ph.D., Hong Kong Baptist University, Principal Supervisor [Prof. Xiaowen Chu](https://www.comp.hkbu.edu.hk/~chxw/), External Committee Members [Prof. Bin Xiao](https://web.comp.polyu.edu.hk/csbxiao/), [Dr. Qiang Tang](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/qiang-tang.html), 2017/09-2023/06
+* Ph.D., Hong Kong Baptist University, Principal Supervisor [Prof. Xiaowen Chu](https://www.comp.hkbu.edu.hk/~chxw/), External Committee Members [Prof. Bin Xiao](https://web.comp.polyu.edu.hk/csbxiao/), IEEE Fellow, [Dr. Qiang Tang](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/qiang-tang.html), 2017/09-2023/06
 
 Some technical projects
 ======
@@ -51,13 +51,13 @@ Work experience
   * Hong Kong Baptist University
   * Course on: Design and Analysis of Algorithms (i.e., Prof. Cheung and me gave weekly tutorials in class)
   * Award: Teaching-Assistant Performance Award
-  * Instructor: [Prof. Yiu Ming Cheung](https://www.comp.hkbu.edu.hk/~ymc/)
+  * Instructor: [Prof. Yiu Ming Cheung](https://www.comp.hkbu.edu.hk/~ymc/), IEEE Fellow
   
 * Teaching Assistant, 2019-2020 Semester 2
   * Hong Kong Baptist University
   * Course on: Design and Analysis of Algorithms (i.e., Prof. Cheung and me gave weekly tutorials in class)
   * Award: Excellent Teaching-Assistant Performance Award
-  * Instructor: [Prof. Yiu Ming Cheung](https://www.comp.hkbu.edu.hk/~ymc/)
+  * Instructor: [Prof. Yiu Ming Cheung](https://www.comp.hkbu.edu.hk/~ymc/), IEEE Fellow
 
 * Teaching Assistant, 2019-2020 Semester 2
   * Hong Kong Baptist University
