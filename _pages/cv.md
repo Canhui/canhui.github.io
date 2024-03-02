@@ -146,10 +146,10 @@ Grants
 
 Service
 ======
-* Reviewer (journal)
+* Invited Reviewer (Journal)
   * IEEE Network Magazine, 2023, 2024.
   * IEEE Transactions on Big Data, 2023.
-* Reviewer (conference)
+* Invited Reviewer (Conference)
   * IEEE HPCC, 2021.
 * Session Chair (conference)
   * AIPR 2023.
