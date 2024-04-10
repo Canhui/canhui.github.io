@@ -149,6 +149,8 @@ Service
 * Invited Reviewer (Journal)
   * IEEE Network Magazine, 2024, 2023.
   * IEEE Transactions on Big Data, 2023.
+* Technical Program Committee (Conference)
+  * IEEE/ACM IWQoS, 2024.
 * Invited Reviewer (Conference)
   * IEEE HPCC, 2021.
 * Session Chair (Conference)
