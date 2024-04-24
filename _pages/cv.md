@@ -54,24 +54,24 @@ Work experience
   * Course on: Internet and World Wide Web
   * Instructor: [Dr. Tony Chan](https://www.linkedin.com/in/tony-chan-486908191/)
 
-* Teaching Assistant, 2018-2019 Semester 2
+* Teaching Assistant, 2018/01-2019/04
   * Hong Kong Baptist University
   * Course on: Operating Systems
   * Award: Teaching-Assistant Performance Award
   * Instructor: [Prof. Yiu Wing Leung](https://www.comp.hkbu.edu.hk/v1/?page=profile&id=ywleung)
 
-* Teaching Assistant, 2018-2019 Semester 1
+* Teaching Assistant, 2018/09-2019/12
   * Hong Kong Baptist University
   * Course on: Principles and Practices of Data Analytics
   * Award: Outstanding Teaching-Assistant Performance Award
   * Instructor: [Dr. Liang Lan](https://imd.hkbu.edu.hk/faculty-member/Dr-LAN-Liang.html)
 
-* Teaching Assistant, 2017-2018 Semester 2
+* Teaching Assistant, 2017/01-2018/04
   * Hong Kong Baptist University
   * Course on: Data Communication and Networking
   * Instructor: [Prof. Xiaowen Chu](https://www.comp.hkbu.edu.hk/~chxw/)
 
-* Teaching Assistant, 2017-2018 Semester 1
+* Teaching Assistant, 2017/09-2018/12
   * Hong Kong Baptist University
   * Course on: IT Project Skills
   * Instructor: [Dr. Hon Wah Tam](https://biography.omicsonline.org/hong-kong/hong-kong-baptist-university/hon-wah-tam-643540) and [Dr. Kristen Y.X. Li](https://www.comp.hkbu.edu.hk/v1/?page=profile&id=csyxli) 
@@ -96,22 +96,22 @@ Skills
   * Output: The paper "Communication contention aware scheduling of multiple deep learning training jobs"
   * Principal Investigator: [Prof. Xiaowen Chu](https://www.comp.hkbu.edu.hk/~chxw/)
 
-* RPG Student, 2018-2019 Semester 2
+* RPG Student, 2018/01-2019/04
   * Hong Kong Baptist University
   * Course on: Analytic Methods for Computer Science Research (i.e., linear programming and nonlinear convex optimization)
   * Instructor: [Prof. Walter Gander](https://people.inf.ethz.ch/gander/)
 
-* RPG Student, 2017-2018 Semester 2
+* RPG Student, 2017/01-2018/04
   * Hong Kong Baptist University
   * Course on: Financial Analysis & Decision Making (i.e., financial analysis)
   * Instructor: [Dr. Jean Hok Yin, Lai](https://www.comp.hkbu.edu.hk/v1/?page=profile&id=jeanlai)
 
-* RPG Student, 2017-2018 Semester 1
+* RPG Student, 2017/09-2018/12
   * Hong Kong Baptist University
   * Course on: Information Processing in Financial Services (i.e., financial concepts)
   * Instructor: [Dr. Jean Hok Yin, Lai](https://www.comp.hkbu.edu.hk/v1/?page=profile&id=jeanlai)
 
-* RPG Student, 2017-2018 Semester 1
+* RPG Student, 2017/09-2018/12
   * Hong Kong Baptist University
   * Course on: Advanced English for Academic Purposes
   * Instructor: [Dr. Cissy Y. X. Li](https://artsbu.hkbu.edu.hk/about-us/our-community-of-teachers-and-researchers/dr-cissy-li) and [Ms. Patricia Warren](https://biography.omicsonline.org/china/hong-kong-baptist-university-hkbu/patricia-warren-206075)
@@ -121,8 +121,25 @@ Skills
   * Output: The papers "GPU accelerated AES algorithm" and "GPU accelerated Keccak (SHA3) algorithm"
   * Principal Investigator: [Prof. Xiaowen Chu](https://www.comp.hkbu.edu.hk/~chxw/)
 
+  
+Grants
+======
+* Trusted Data Framework for Data Exchanges (ARD/294), Innovation and Technology Fund, Hong Kong, 2.799百万港币 (备注: 项目由 [Dr. Eric LAM](https://www.linkedin.com/in/peifunglam2/) 主持, 本人参与, 2023/09-2024/04)
 
-    
+
+<!--
+Service
+======
+* Reviewer (Journal)
+  * IEEE Network Magazine, 2024, 2023.
+  * IEEE Transactions on Big Data, 2023.
+* Reviewer (Conference)
+  * IEEE/ACM IWQoS, 2024; IEEE HPCC, 2021. 
+* Technical Program Committee (Conference)
+  * IEEE/ACM IWQoS, 2024.
+* Session Chair (Conference)
+  * AIPR 2023.-->
+
 <!-- Skills
 ======
 * Skill 1
@@ -143,21 +160,3 @@ Skills
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul> -->
-  
-Grants
-======
-* Trusted Data Framework for Data Exchanges (ARD/294), Innovation and Technology Fund, Hong Kong, 2.799百万港币 (备注: 项目由 [Dr. Eric LAM](https://www.linkedin.com/in/peifunglam2/) 主持, 本人参与, 2023/09-2024/04)
-
-
-<!--
-Service
-======
-* Reviewer (Journal)
-  * IEEE Network Magazine, 2024, 2023.
-  * IEEE Transactions on Big Data, 2023.
-* Reviewer (Conference)
-  * IEEE/ACM IWQoS, 2024; IEEE HPCC, 2021. 
-* Technical Program Committee (Conference)
-  * IEEE/ACM IWQoS, 2024.
-* Session Chair (Conference)
-  * AIPR 2023.-->
