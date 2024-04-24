@@ -27,46 +27,46 @@ Work experience
   * Hong Kong Baptist University
   * Principal Investigator: [Prof. Xiaowen Chu](https://www.comp.hkbu.edu.hk/~chxw/)
 
-* Teaching Assistant, 2020-2021 Semester 2
+* Teaching Assistant, 2021/01-2021/04
   * Hong Kong Baptist University
   * Course on: Advanced Programming for Software Development (i.e., C++ object oriented programming and partially software engineering)
   * Instructor: [Prof. Xiaowen Chu](https://www.comp.hkbu.edu.hk/~chxw/)
 
-* Teaching Assistant, 2020-2021 Semester 1
+* Teaching Assistant, 2020/09-2020/12
   * Hong Kong Baptist University
   * Course on: Design and Analysis of Algorithms (i.e., Prof. Cheung and me gave weekly tutorials in class)
   * Award: Teaching-Assistant Performance Award
   * Instructor: [Prof. Yiu Ming Cheung](https://www.comp.hkbu.edu.hk/~ymc/), IEEE Fellow
   
-* Teaching Assistant, 2019-2020 Semester 2
+* Teaching Assistant, 2020/01-2020/04
   * Hong Kong Baptist University
   * Course on: Design and Analysis of Algorithms (i.e., Prof. Cheung and me gave weekly tutorials in class)
   * Award: Excellent Teaching-Assistant Performance Award
   * Instructor: [Prof. Yiu Ming Cheung](https://www.comp.hkbu.edu.hk/~ymc/), IEEE Fellow
 
-* Teaching Assistant, 2019-2020 Semester 2
+* Teaching Assistant, 2020/01-2020/04
   * Hong Kong Baptist University
   * Course on: Distributed and Cloud Computing
   * Instructor: [Prof. Byron Choi](https://www.comp.hkbu.edu.hk/~bchoi/)
 
-* Teaching Assistant, 2019-2020 Semester 1
+* Teaching Assistant, 2019/09-2019/12
   * Hong Kong Baptist University
   * Course on: Internet and World Wide Web
   * Instructor: [Dr. Tony Chan](https://www.linkedin.com/in/tony-chan-486908191/)
 
-* Teaching Assistant, 2018/01-2019/04
+* Teaching Assistant, 2019/01-2019/04
   * Hong Kong Baptist University
   * Course on: Operating Systems
   * Award: Teaching-Assistant Performance Award
   * Instructor: [Prof. Yiu Wing Leung](https://www.comp.hkbu.edu.hk/v1/?page=profile&id=ywleung)
 
-* Teaching Assistant, 2018/09-2019/12
+* Teaching Assistant, 2018/09-2018/12
   * Hong Kong Baptist University
   * Course on: Principles and Practices of Data Analytics
   * Award: Outstanding Teaching-Assistant Performance Award
   * Instructor: [Dr. Liang Lan](https://imd.hkbu.edu.hk/faculty-member/Dr-LAN-Liang.html)
 
-* Teaching Assistant, 2017/01-2018/04
+* Teaching Assistant, 2018/01-2018/04
   * Hong Kong Baptist University
   * Course on: Data Communication and Networking
   * Instructor: [Prof. Xiaowen Chu](https://www.comp.hkbu.edu.hk/~chxw/)
