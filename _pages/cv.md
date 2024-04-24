@@ -25,6 +25,7 @@ Work experience
 
 * Research Assistant, 2021/09-2023/04
   * Hong Kong Baptist University
+  * Project on: Throughput and Latency Modeling of Hyperledger Fabric Blockchain on a Local Cluster (Hong Kong Base) and an Alibaba Cloud Cluster (Guangzhou Base)
   * Principal Investigator: [Prof. Xiaowen Chu](https://www.comp.hkbu.edu.hk/~chxw/)
 
 * Teaching Assistant, 2021/01-2021/04
@@ -86,10 +87,7 @@ Work experience
 Skills
 ======  
 
-* Throughput and Latency Modeling on a Local Cluster (Hong Kong Base) and an Alibaba Cloud Cluster (Guangzhou Base), 2020/01-2023/07
-  * Hong Kong Baptist University
-  * Output: Enclosed in my Ph.D. Thesis
-  * Principal Investigator: [Prof. Xiaowen Chu](https://www.comp.hkbu.edu.hk/~chxw/)
+
 
 * Scheduling Machine Learning Tasks Based on Kubernetes Cluster, 2019/01-2019/05
   * Hong Kong Baptist University
@@ -127,6 +125,12 @@ Grants
 * Trusted Data Framework for Data Exchanges (ARD/294), Innovation and Technology Fund, Hong Kong, 2.799百万港币 (备注: 项目由 [Dr. Eric LAM](https://www.linkedin.com/in/peifunglam2/) 主持, 本人参与, 2023/09-2024/04)
 
 
+<!--
+* Throughput and Latency Modeling on a Local Cluster (Hong Kong Base) and an Alibaba Cloud Cluster (Guangzhou Base), 2020/01-2023/07
+  * Hong Kong Baptist University
+  * Output: Enclosed in my Ph.D. Thesis
+  * Principal Investigator: [Prof. Xiaowen Chu](https://www.comp.hkbu.edu.hk/~chxw/)-->
+  
 <!--
 Service
 ======
