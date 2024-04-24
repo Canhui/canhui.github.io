@@ -16,6 +16,14 @@ Education background
 
 Work experience
 ======
+* Lecturer (Research & Teaching), 2023/12-Present
+  * Department of Computer Science and Technology, Huaqiao University (Xiamen)
+
+* Senior Engineer (PI), 2023/09-2024/05
+  * Hong Kong Applied Science and Technology Research Institute
+  * Project on: Trusted Data Framework for Data Exchanges (ARD/294)
+  * Director: [Dr. Eric LAM](https://www.linkedin.com/in/peifunglam2/)
+
 * Research Assistant, 2023/04-2023/07
   * Hong Kong Baptist University
   * Project on: User-Controlled Secure Data Sharing and Analytics with Blockchain and Trusted Computing Technologies
