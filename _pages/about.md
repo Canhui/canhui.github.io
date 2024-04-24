@@ -1,8 +1,8 @@
 ---
 permalink: /
 #title: "Brief biography"
-title: "Bio"
-excerpt: "Bio"
+title: "About me"
+excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
