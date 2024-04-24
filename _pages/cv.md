@@ -18,6 +18,7 @@ Work experience
 ======
 * Lecturer (Research & Teaching), 2023/12-Present
   * Department of Computer Science and Technology, Huaqiao University (Xiamen)
+  * Division: Network and Information Security
 
 * Senior Engineer (PI), 2023/09-2024/05
   * Hong Kong Applied Science and Technology Research Institute
