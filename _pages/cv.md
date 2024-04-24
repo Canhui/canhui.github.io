@@ -9,27 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Education background
 ======
 * B.Eng., Shandong University, Information Security, 2012/09-2016/06
 * Ph.D., Hong Kong Baptist University, Computer Science, Principal Supervisor [Prof. Xiaowen Chu](https://www.comp.hkbu.edu.hk/~chxw/), External Committee Members [Prof. Bin Xiao](https://web.comp.polyu.edu.hk/csbxiao/), IEEE Fellow, [Dr. Qiang Tang](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/qiang-tang.html), 2017/09-2023/06
 
-Some technical projects
-======
-* Throughput and Latency Modeling on a Local Cluster (Hong Kong Base) and an Alibaba Cloud Cluster (Guangzhou Base), 2020/01-2023/07
-  * Hong Kong Baptist University
-  * Output: Enclosed in my Ph.D. Thesis
-  * Principal Investigator: [Prof. Xiaowen Chu](https://www.comp.hkbu.edu.hk/~chxw/)
-
-* Scheduling Machine Learning Tasks Based on Kubernetes Cluster, 2019/01-2019/05
-  * Hong Kong Baptist University
-  * Output: The paper "Communication contention aware scheduling of multiple deep learning training jobs"
-  * Principal Investigator: [Prof. Xiaowen Chu](https://www.comp.hkbu.edu.hk/~chxw/)
-
-* Implementing Cryptographic Primitives on NVIDIA GPU platform, 2016/07-2017/09
-  * Hong Kong Baptist University
-  * Output: The papers "GPU accelerated AES algorithm" and "GPU accelerated Keccak (SHA3) algorithm"
-  * Principal Investigator: [Prof. Xiaowen Chu](https://www.comp.hkbu.edu.hk/~chxw/)
 
 Work experience
 ======
@@ -37,7 +21,8 @@ Work experience
   * Hong Kong Baptist University
   * Project on: User-Controlled Secure Data Sharing and Analytics with Blockchain and Trusted Computing Technologies
   * Principal Investigator(s): [Prof. Jianliang Xu](https://www.comp.hkbu.edu.hk/~xujl/) (with effect from 16 June 2023 to 24 Jul 2023), [Prof. Xiaowen Chu](https://www.comp.hkbu.edu.hk/~chxw/)
-  
+
+
 * Research Assistant, 2021/09-2023/04
   * Hong Kong Baptist University
   * Principal Investigator: [Prof. Xiaowen Chu](https://www.comp.hkbu.edu.hk/~chxw/)
@@ -68,7 +53,7 @@ Work experience
   * Hong Kong Baptist University
   * Course on: Internet and World Wide Web
   * Instructor: [Dr. Tony Chan](https://www.linkedin.com/in/tony-chan-486908191/)
-  
+
 * Teaching Assistant, 2018-2019 Semester 2
   * Hong Kong Baptist University
   * Course on: Operating Systems
@@ -96,8 +81,21 @@ Work experience
   * Project on: GPU Implementation of Cryptography Primitives
   * Principal Investigator: [Prof. Xiaowen Chu](https://www.comp.hkbu.edu.hk/~chxw/)
 
+
+
 Skills
 ======  
+
+* Throughput and Latency Modeling on a Local Cluster (Hong Kong Base) and an Alibaba Cloud Cluster (Guangzhou Base), 2020/01-2023/07
+  * Hong Kong Baptist University
+  * Output: Enclosed in my Ph.D. Thesis
+  * Principal Investigator: [Prof. Xiaowen Chu](https://www.comp.hkbu.edu.hk/~chxw/)
+
+* Scheduling Machine Learning Tasks Based on Kubernetes Cluster, 2019/01-2019/05
+  * Hong Kong Baptist University
+  * Output: The paper "Communication contention aware scheduling of multiple deep learning training jobs"
+  * Principal Investigator: [Prof. Xiaowen Chu](https://www.comp.hkbu.edu.hk/~chxw/)
+
 * RPG Student, 2018-2019 Semester 2
   * Hong Kong Baptist University
   * Course on: Analytic Methods for Computer Science Research (i.e., linear programming and nonlinear convex optimization)
@@ -118,7 +116,13 @@ Skills
   * Course on: Advanced English for Academic Purposes
   * Instructor: [Dr. Cissy Y. X. Li](https://artsbu.hkbu.edu.hk/about-us/our-community-of-teachers-and-researchers/dr-cissy-li) and [Ms. Patricia Warren](https://biography.omicsonline.org/china/hong-kong-baptist-university-hkbu/patricia-warren-206075)
 
+* Implementing Cryptographic Primitives on NVIDIA GPU platform, 2016/07-2017/09
+  * Hong Kong Baptist University
+  * Output: The papers "GPU accelerated AES algorithm" and "GPU accelerated Keccak (SHA3) algorithm"
+  * Principal Investigator: [Prof. Xiaowen Chu](https://www.comp.hkbu.edu.hk/~chxw/)
 
+
+    
 <!-- Skills
 ======
 * Skill 1
