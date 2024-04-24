@@ -86,9 +86,7 @@ Work experience
 Skills
 ======  
 
-
-
-* Scheduling Machine Learning Tasks Based on Kubernetes Cluster, 2019/01-2019/05
+* Research Assistant, Scheduling Machine Learning Tasks Based on Kubernetes Cluster, 2019/01-2019/05
   * Hong Kong Baptist University
   * Output: The paper "Communication contention aware scheduling of multiple deep learning training jobs"
   * Principal Investigator: [Prof. Xiaowen Chu](https://www.comp.hkbu.edu.hk/~chxw/)
@@ -113,12 +111,12 @@ Skills
   * Course on: Advanced English for Academic Purposes
   * Instructor: [Dr. Cissy Y. X. Li](https://artsbu.hkbu.edu.hk/about-us/our-community-of-teachers-and-researchers/dr-cissy-li) and [Ms. Patricia Warren](https://biography.omicsonline.org/china/hong-kong-baptist-university-hkbu/patricia-warren-206075)
 
-* Implementing Cryptographic Primitives on NVIDIA GPU platform, 2016/07-2017/09
+* Research Assistant, Implementing Cryptographic Primitives on NVIDIA GPU platform, 2016/07-2017/09
   * Hong Kong Baptist University
   * Output: The papers "GPU accelerated AES algorithm" and "GPU accelerated Keccak (SHA3) algorithm"
   * Principal Investigator: [Prof. Xiaowen Chu](https://www.comp.hkbu.edu.hk/~chxw/)
 
-  
+
 Grants
 ======
 * Trusted Data Framework for Data Exchanges (ARD/294), Innovation and Technology Fund, Hong Kong, 2.799百万港币 (备注: 项目由 [Dr. Eric LAM](https://www.linkedin.com/in/peifunglam2/) 主持, 本人参与, 2023/09-2024/04)
