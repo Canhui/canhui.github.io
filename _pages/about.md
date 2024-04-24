@@ -13,9 +13,9 @@ Canhui Wang is currently a Lecturer (Research & Teaching) with Network and Infor
 
 Recent news
 ======
-[11 April 2024]: Serve as a Technical Program Committee (TPC) member on [IEEE/ACM IWQoS 2024](https://iwqos2024.ieee-iwqos.org/committees/technical-program-committee).
+**[11 April 2024]**: Serve as a Technical Program Committee (TPC) member on [IEEE/ACM IWQoS 2024](https://iwqos2024.ieee-iwqos.org/committees/technical-program-committee).
 
-[15 June 2023]: Congratulations to a success of my Ph.D. dissertation defense, for the contribution of quantitative analytics and long-term validations by Prof. Xiaowen Chu and me, on performance modeling and analysis of Bitcoin and Hyperledger Fabric blockchain distributed systems.
+**[15 June 2023]**: Congratulations to a success of my Ph.D. dissertation defense, for the contribution of quantitative analytics and long-term validations by Prof. Xiaowen Chu and me, on performance modeling and analysis of Bitcoin and Hyperledger Fabric blockchain distributed systems.
 
 
 <!-- for the contribution  -->
