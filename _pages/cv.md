@@ -144,6 +144,8 @@ Grants
 ======
 * Trusted Data Framework for Data Exchanges (ARD/294), Innovation and Technology Fund, Hong Kong, 2.799百万港币 (备注: 项目由 [Dr. Eric LAM](https://www.linkedin.com/in/peifunglam2/) 主持, 本人参与, 2023/09-2024/04)
 
+
+<!--
 Service
 ======
 * Reviewer (Journal)
@@ -154,4 +156,4 @@ Service
 * Technical Program Committee (Conference)
   * IEEE/ACM IWQoS, 2024.
 * Session Chair (Conference)
-  * AIPR 2023.
+  * AIPR 2023.-->
