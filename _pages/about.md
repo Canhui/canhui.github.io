@@ -19,7 +19,7 @@ Recent news
 
 \[27 Sep 2023\]: Sponsored by [Research Talent Hub](https://www.itf.gov.hk/en/funding-programmes/nurturing-talent/research-talent-hub/), Hong Kong Innovation and Technology Fund (RTH-ITF) -\- for the work on applied cryptosystems with ASTRI in Hong Kong.
 
-\[15 June 2023\]: Congratulations to a success of my Ph.D. dissertation defense -\- for the contribution of quantitative analytics and long-term validations by Prof. Xiaowen Chu and me on performance modeling and analysis of Bitcoin and Hyperledger Fabric blockchain distributed systems.
+\[15 June 2023\]: Congratulations to a success of my Ph.D. dissertation defense -\- for the contribution of quantitative analytics and long-term validations by [Prof. Xiaowen Chu](https://scholar.google.com/citations?user=v4rX24EAAAAJ) and me on performance modeling and analysis of Bitcoin and Hyperledger Fabric blockchain distributed systems.
 
 
 Job openings
