@@ -20,6 +20,10 @@ Recent news
 \[15 June 2023\]: Congratulations to a success of my Ph.D. dissertation defense, for the contribution of quantitative analytics and long-term validations by Prof. Xiaowen Chu and me, on performance modeling and analysis of Bitcoin and Hyperledger Fabric blockchain distributed systems.
 
 
+Job openings
+======
+TBA
+
 <!-- for the contribution  -->
 <!-- due to the quantitative analytics and the long-term validations  -->
 <!-- by Prof. Xiaowen Chu and me on performance modeling and analysis of Bitcoin and Hyperledger Fabric blockchain distributed systems. -->
@@ -94,5 +98,3 @@ Please contact me via email: <ins>chwang@hqu.edu.cn</ins> or <ins>canhui_wang@qq
 For more info
 ------
 You may reach me via emails: <ins>chwang@hqu.edu.cn</ins> or <ins>canhuiwang@astri.org</ins>. For more information, please refer to [ORCID](https://orcid.org/0000-0001-7869-9083), [Google Scholar](https://scholar.google.com/citations?user=_pEPpkUAAAAJ), [Linkedin](https://www.linkedin.com/in/canhui-wang-ph-d-54a84017a/), and [Web of Science ResearcherID](https://www.webofscience.com/wos/author/record/HLX-9012-2023). -->
-
-
