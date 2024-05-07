@@ -15,7 +15,7 @@ Recent news
 ======
 \[7 May 2024\]: Supported by a 5-year program for [厦门市高层次留学人员](http://hrss.xm.gov.cn).
 
-\[11 April 2024\]: Serve as a Technical Program Committee (TPC) member on [IEEE/ACM IWQoS 2024](https://iwqos2024.ieee-iwqos.org/committees/technical-program-committee).
+\[11 April 2024\]: Serve as a Technical Program Committee (TPC) member on [IEEE/ACM IWQoS 2024](https://iwqos2024.ieee-iwqos.org/committees/technical-program-committee), for the work on blockchain-based networking and queuing theory-based model.
 
 \[15 June 2023\]: Congratulations to a success of my Ph.D. dissertation defense, for the contribution of quantitative analytics and long-term validations by Prof. Xiaowen Chu and me, on performance modeling and analysis of Bitcoin and Hyperledger Fabric blockchain distributed systems.
 
