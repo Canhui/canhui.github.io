@@ -17,7 +17,7 @@ Recent news
 
 \[11 April 2024\]: Serve as a Technical Program Committee (TPC) member on [IEEE/ACM IWQoS 2024](https://iwqos2024.ieee-iwqos.org/committees/technical-program-committee) -\- for the work on blockchain-based networking and queuing theory-based model.
 
-\[27 Sep 2023\]: Sponsored by [Research Talent Hub](https://www.itf.gov.hk/en/funding-programmes/nurturing-talent/research-talent-hub/), Hong Kong Innovation and Technology Fund (RTH-ITF) -\- for the work on applied cryptosystems with ASTRI.
+\[27 Sep 2023\]: Sponsored by [Research Talent Hub](https://www.itf.gov.hk/en/funding-programmes/nurturing-talent/research-talent-hub/), Hong Kong Innovation and Technology Fund (RTH-ITF) -\- for the work on applied cryptosystems with ASTRI in Hong Kong.
 
 \[15 June 2023\]: Congratulations to a success of my Ph.D. dissertation defense -\- for the contribution of quantitative analytics and long-term validations by Prof. Xiaowen Chu and me on performance modeling and analysis of Bitcoin and Hyperledger Fabric blockchain distributed systems.
 
