@@ -13,7 +13,7 @@ Canhui Wang is currently a Lecturer (Research & Teaching) with Network and Infor
 
 Recent news
 ======
-\[7 May 2024\]: Supported by a 5-year program for [厦门市高层次留学人员](http://hrss.xm.gov.cn).
+\[7 May 2024\]: Supported by a 5-year program for [厦门市高层次留学人员](http://hrss.xm.gov.cn), for the work on research, teaching and development in Xiamen, China.
 
 \[11 April 2024\]: Serve as a Technical Program Committee (TPC) member on [IEEE/ACM IWQoS 2024](https://iwqos2024.ieee-iwqos.org/committees/technical-program-committee), for the work on blockchain-based networking and queuing theory-based model.
 
