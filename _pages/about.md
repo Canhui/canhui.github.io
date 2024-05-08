@@ -24,7 +24,7 @@ Recent news
 
 Job openings
 ======
-TBA
+To be announced.
 
 <!-- for the contribution  -->
 <!-- due to the quantitative analytics and the long-term validations  -->
