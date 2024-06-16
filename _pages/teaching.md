@@ -14,7 +14,7 @@ author_profile: true
 
 ---
 
-2024 
+2024 - Fall
 ======
 
 **信息安全专业综合实践（Introduction to Information Security: A Practice）**
@@ -22,6 +22,12 @@ author_profile: true
 *Department of Computer Science and Technology, Huaqiao University (Xiamen), Fall Semester, 2024* 
 
 [Course](https://faculty.hqu.edu.cn/WCH12/zh_CN/skxx/233670/list/index.htm) &nbsp; [Material](https://faculty.hqu.edu.cn/WCH12/zh_CN/jxzy/233669/list/index.htm)
+
+---
+
+
+2024 - Summer
+======
 
 ---
 
