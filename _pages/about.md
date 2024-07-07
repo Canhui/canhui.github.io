@@ -11,6 +11,10 @@ redirect_from:
 
 Canhui Wang is currently a Lecturer (Research & Teaching) with Network and Information Security (NIS), the department of computer science and technology, Huaqiao University, Xiamen. Before that, he was a senior engineer (PI) with a full sponsorship by Research Talent Hub, Innovation and Technology Fund (RTH-ITF), with Applied Cryptosystems, Trust and AI technologies, at the ASTRI Security Lab, Hong Kong Applied Science and Technology Research Institute (ASTRI), Sha Tin, Hong Kong, working with [Dr. Eric P. F. Lam](https://www.linkedin.com/in/peifunglam2/). He received his Ph.D. degree in computer science with Hong Kong Baptist University, Kowloon Tong, Hong Kong, under the supervision of [Prof. Xiaowen Chu](https://www.linkedin.com/in/xiaowen-chu-477b9120/), in 2023; and B.Eng. degree in information security with Shandong University, Jinan, China, in 2016. He worked in the Inspur-HKBU Joint Laboratory for Heterogeneous Computing, the High-Performance Machine Learning Laboratory, and the Blockchain and FinTech Lab with Prof. Chu. He is a member of IEEE, a member of ACM, and a member of CCF (CCF Blockchain, High-Performance Computing, and Security Technical Committee Members). His research interest focuses on networking, parallel & distributed computing, and security.
 
+Job openings
+======
+To be announced.
+
 Recent news
 ======
 \[07 May 2024\]: Sponsored by the 5-year program of [厦门市高层次留学人员](http://hrss.xm.gov.cn) -\- for the work on research and teaching with HQU in Xiamen.
@@ -22,9 +26,7 @@ Recent news
 \[15 June 2023\]: Congratulations to a success of my Ph.D. dissertation defense -\- for the contribution of quantitative analytics and long-term validations by [Prof. Xiaowen Chu](https://scholar.google.com/citations?user=v4rX24EAAAAJ) and me on performance modeling and analysis of Bitcoin and Hyperledger Fabric blockchain distributed systems.
 
 
-Job openings
-======
-To be announced.
+
 
 <!-- for the contribution  -->
 <!-- due to the quantitative analytics and the long-term validations  -->
