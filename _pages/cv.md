@@ -118,7 +118,7 @@ Skills
 * RPG Student, 2017/09-2018/12
   * Hong Kong Baptist University
   * Course on: Advanced English for Academic Purposes
-  * Instructor: [Dr. Cissy Y. X. Li](https://artsbu.hkbu.edu.hk/about-us/our-community-of-teachers-and-researchers/dr-cissy-li) and [Ms. Patricia Warren](https://biography.omicsonline.org/china/hong-kong-baptist-university-hkbu/patricia-warren-206075)
+  * Instructor: [Dr. Cissy Y. X. Li](https://artsbu.hkbu.edu.hk/about-us/our-community-of-teachers-and-researchers/dr-cissy-li) and [Dr. Patricia Warren](https://biography.omicsonline.org/china/hong-kong-baptist-university-hkbu/patricia-warren-206075)
 
 * Research Assistant, Implementing Cryptographic Primitives on NVIDIA GPU platform, 2016/07-2017/09
   * Hong Kong Baptist University
