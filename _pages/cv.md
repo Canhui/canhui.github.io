@@ -44,13 +44,13 @@ Work experience
 * Teaching Assistant, 2020/09-2020/12
   * Hong Kong Baptist University
   * Course on: Design and Analysis of Algorithms (i.e., Prof. Cheung and me gave weekly tutorials in class)
-  * Award: Teaching-Assistant Performance Award
+  * Award: Teaching-Assistant Performance Award <span style="color:red">To be announced.</span>
   * Instructor: [Prof. Yiu Ming Cheung](https://www.comp.hkbu.edu.hk/~ymc/), IEEE Fellow
   
 * Teaching Assistant, 2020/01-2020/04
   * Hong Kong Baptist University
   * Course on: Design and Analysis of Algorithms (i.e., Prof. Cheung and me gave weekly tutorials in class)
-  * Award: Excellent Teaching-Assistant Performance Award
+  * Award: Excellent Teaching-Assistant Performance Award <span style="color:red">To be announced.</span>
   * Instructor: [Prof. Yiu Ming Cheung](https://www.comp.hkbu.edu.hk/~ymc/), IEEE Fellow
 
 * Teaching Assistant, 2020/01-2020/04
@@ -66,13 +66,13 @@ Work experience
 * Teaching Assistant, 2019/01-2019/04
   * Hong Kong Baptist University
   * Course on: Operating Systems
-  * Award: Teaching-Assistant Performance Award
+  * Award: Teaching-Assistant Performance Award <span style="color:red">To be announced.</span>
   * Instructor: [Prof. Yiu Wing Leung](https://www.comp.hkbu.edu.hk/v1/?page=profile&id=ywleung)
 
 * Teaching Assistant, 2018/09-2018/12
   * Hong Kong Baptist University
   * Course on: Principles and Practices of Data Analytics
-  * Award: Outstanding Teaching-Assistant Performance Award
+  * Award: Outstanding Teaching-Assistant Performance Award <span style="color:red">To be announced.</span>
   * Instructor: [Dr. Liang Lan](https://imd.hkbu.edu.hk/faculty-member/Dr-LAN-Liang.html)
 
 * Teaching Assistant, 2018/01-2018/04
