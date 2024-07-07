@@ -50,7 +50,7 @@ Work experience
 * Teaching Assistant, 2020/01-2020/04
   * Hong Kong Baptist University
   * Course on: Design and Analysis of Algorithms (i.e., Prof. Cheung and me gave weekly tutorials in class)
-  * Award: Excellent Teaching-Assistant Performance Award <span style="color:red">To be announced.</span>
+  * <span style="color:blue">Award: Excellent Teaching-Assistant Performance Award</span>
   * Instructor: [Prof. Yiu Ming Cheung](https://www.comp.hkbu.edu.hk/~ymc/), IEEE Fellow
 
 * Teaching Assistant, 2020/01-2020/04
@@ -66,13 +66,13 @@ Work experience
 * Teaching Assistant, 2019/01-2019/04
   * Hong Kong Baptist University
   * Course on: Operating Systems
-  * Award: Teaching-Assistant Performance Award <span style="color:red">To be announced.</span>
+  * <span style="color:blue">Award: Teaching-Assistant Performance Award</span>
   * Instructor: [Prof. Yiu Wing Leung](https://www.comp.hkbu.edu.hk/v1/?page=profile&id=ywleung)
 
 * Teaching Assistant, 2018/09-2018/12
   * Hong Kong Baptist University
   * Course on: Principles and Practices of Data Analytics
-  * Award: Outstanding Teaching-Assistant Performance Award <span style="color:red">To be announced.</span>
+  * <span style="color:blue">Award: Outstanding Teaching-Assistant Performance Award</span>
   * Instructor: [Dr. Liang Lan](https://imd.hkbu.edu.hk/faculty-member/Dr-LAN-Liang.html)
 
 * Teaching Assistant, 2018/01-2018/04
@@ -125,48 +125,3 @@ Skills
   * Output: The papers "GPU accelerated AES algorithm" and "GPU accelerated Keccak (SHA3) algorithm"
   * Principal Investigator: [Prof. Xiaowen Chu](https://www.comp.hkbu.edu.hk/~chxw/)
 
-
-<!--Grants
-======
-* Trusted Data Framework for Data Exchanges (ARD/294), Innovation and Technology Fund, Hong Kong, 2.799百万港币 (备注: 项目由 [Dr. Eric LAM](https://www.linkedin.com/in/peifunglam2/) 主持, 本人参与, 2023/09-2024/04)-->
-
-
-<!--
-* Throughput and Latency Modeling on a Local Cluster (Hong Kong Base) and an Alibaba Cloud Cluster (Guangzhou Base), 2020/01-2023/07
-  * Hong Kong Baptist University
-  * Output: Enclosed in my Ph.D. Thesis
-  * Principal Investigator: [Prof. Xiaowen Chu](https://www.comp.hkbu.edu.hk/~chxw/)-->
-  
-<!--
-Service
-======
-* Reviewer (Journal)
-  * IEEE Network Magazine, 2024, 2023.
-  * IEEE Transactions on Big Data, 2023.
-* Reviewer (Conference)
-  * IEEE/ACM IWQoS, 2024; IEEE HPCC, 2021. 
-* Technical Program Committee (Conference)
-  * IEEE/ACM IWQoS, 2024.
-* Session Chair (Conference)
-  * AIPR 2023.-->
-
-<!-- Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3 -->
-
-<!-- Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
-  
-<!-- Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul> -->
