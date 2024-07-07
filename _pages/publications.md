@@ -32,7 +32,7 @@ author_profile: true
 
 *IEEE Transactions on Network Science and Engineering (TNSE), 2023, Regular Papers* 
 
-[Paper](https://ieeexplore.ieee.org/abstract/document/9907879) &nbsp; [Code](https://github.com/Canhui/AppendixBTC)
+[Paper](https://ieeexplore.ieee.org/abstract/document/9907879) &nbsp; [Appendix](https://github.com/Canhui/AppendixBTC/blob/main/Appendix.pdf) &nbsp; [Code](https://github.com/Canhui/AppendixBTC)
 
 
 
