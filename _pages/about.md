@@ -91,8 +91,12 @@ Many people use a git client to create files on their local computer and then pu
 Example: editing a markdown file for a talk
 ![Editing a markdown file for a talk](/images/editing-talk.png) For more info -->
 
+Grants
+======
+* Trusted Data Framework for Data Exchanges (ARD/294), Innovation and Technology Fund, Hong Kong, 2.799百万港币 (备注: 项目由 [Dr. Eric LAM](https://www.linkedin.com/in/peifunglam2/) 主持, 本人参与, 2023/09-2024/04)
 
-Contact info
+
+Contact
 ======
 Please contact me via E-mails: <ins>chwang@hqu.edu.cn</ins> or <ins>canhui_wang@qq.com</ins>. For more information, please find my [ORCID](https://orcid.org/0000-0001-7869-9083), [Google Scholar](https://scholar.google.com/citations?user=_pEPpkUAAAAJ), [Linkedin](https://www.linkedin.com/in/canhui-wang-ph-d-54a84017a/), and [Web of Science ResearcherID](https://www.webofscience.com/wos/author/record/HLX-9012-2023).
 
