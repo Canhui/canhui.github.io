@@ -23,7 +23,7 @@ Work experience
 * Senior Engineer (PI), 2023/09-2024/05
   * Hong Kong Applied Science and Technology Research Institute
   * Project on: Trusted Data Framework for Data Exchanges (ARD/294)
-  * Director: [Dr. Eric LAM](https://www.linkedin.com/in/peifunglam2/)
+  * Director: [Dr. Eric P. F. LAM](https://www.linkedin.com/in/peifunglam2/)
 
 * Research Assistant, 2023/04-2023/07
   * Hong Kong Baptist University
