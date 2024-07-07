@@ -13,7 +13,7 @@ Canhui Wang is currently a Lecturer (Research & Teaching) with Network and Infor
 
 Job openings
 ======
-<span style="color:red">**To be announced.**</span>.
+<span style="color:red">To be announced.</span>.
 
 Recent news
 ======
