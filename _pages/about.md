@@ -17,7 +17,7 @@ Canhui Wang is currently a Lecturer (Research & Teaching) with Network and Infor
 
 Recent news
 ======
-\[12 Aug 2024\]: Give a talk at 信息学院，厦门大学. Thanks [Prof Shen](https://sites.google.com/view/yaobin)'s invitation.   
+\[12 Aug 2024\]: Give a talk at 信息学院，厦门大学. Thanks [Prof Shen's](https://sites.google.com/view/yaobin) invitation.   
 
 \[07 May 2024\]: Sponsored by the 5-year program of [厦门市高层次留学人员](http://hrss.xm.gov.cn) -\- for the work on research and teaching with HQU in Xiamen.
 
