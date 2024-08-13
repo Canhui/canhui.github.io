@@ -31,7 +31,7 @@ Recent news
 
 <summary>More news</summary>
 
-\[Date 2023\]: Contents
+\[Date 2023\]: See more news
 
 </details>
 
