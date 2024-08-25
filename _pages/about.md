@@ -19,13 +19,13 @@ Recent news
 ======
 <span style="color:red"> \[12 Aug 2024\] </span> Give a talk at [厦门大学信息学院](https://informatics.xmu.edu.cn/index.htm). Thanks [Prof. Yaobin Shen's](https://sites.google.com/view/yaobin) invitation.   
 
-\[07 May 2024\]: Sponsored by the 5-year program of [厦门市高层次留学人员](http://hrss.xm.gov.cn) -\- for the work on research and teaching with HQU in Xiamen.
+<span style="color:red"> \[07 May 2024\] </span> Sponsored by the 5-year program of [厦门市高层次留学人员](http://hrss.xm.gov.cn) -\- for the work on research and teaching with HQU in Xiamen.
 
-\[11 Apr 2024\]: Serve as a Technical Program Committee (TPC) member on [IEEE/ACM IWQoS 2024](https://iwqos2024.ieee-iwqos.org/committees/technical-program-committee) (CCF-B) -\- for the work on blockchain-based networking and queuing theory-based modeling.
+<span style="color:red"> \[11 Apr 2024\] </span> Serve as a Technical Program Committee (TPC) member on [IEEE/ACM IWQoS 2024](https://iwqos2024.ieee-iwqos.org/committees/technical-program-committee) (CCF-B) -\- for the work on blockchain-based networking and queuing theory-based modeling.
 
-\[27 Sep 2023\]: Sponsored by the 3-year program of [Research Talent Hub](https://www.itf.gov.hk/en/funding-programmes/nurturing-talent/research-talent-hub/), Hong Kong Innovation and Technology Fund (RTH-ITF) -\- for the work on applied cryptosystems with ASTRI in Hong Kong.
+<span style="color:red"> \[27 Sep 2023\] </span> Sponsored by the 3-year program of [Research Talent Hub](https://www.itf.gov.hk/en/funding-programmes/nurturing-talent/research-talent-hub/), Hong Kong Innovation and Technology Fund (RTH-ITF) -\- for the work on applied cryptosystems with ASTRI in Hong Kong.
 
-\[15 Jun 2023\]: Congratulations to a success of my Ph.D. dissertation defense -\- for the contribution of quantitative analytics and long-term verifications by [Prof. Xiaowen Chu](https://scholar.google.com/citations?user=v4rX24EAAAAJ) and me on performance modeling and analysis of Bitcoin and Hyperledger Fabric blockchain distributed systems [(Ph.D. Dissertation/博士学位论文)](https://scholars.hkbu.edu.hk/ws/portalfiles/portal/80879547/G23THFL-042570T.pdf).
+<span style="color:red"> \[15 Jun 2023\] </span> Congratulations to a success of my Ph.D. dissertation defense -\- for the contribution of quantitative analytics and long-term verifications by [Prof. Xiaowen Chu](https://scholar.google.com/citations?user=v4rX24EAAAAJ) and me on performance modeling and analysis of Bitcoin and Hyperledger Fabric blockchain distributed systems [(Ph.D. Dissertation/博士学位论文)](https://scholars.hkbu.edu.hk/ws/portalfiles/portal/80879547/G23THFL-042570T.pdf).
 
 
 
