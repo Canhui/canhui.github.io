@@ -16,6 +16,14 @@ author_profile: true
 2024
 ======
 
+**高级计算机网络（Advanced Computer Networks）**
+
+*Department of Computer Science and Technology, Huaqiao University (Xiamen), Fall Semester, 2024* 
+
+[Course](https://faculty.hqu.edu.cn/WCH12/zh_CN/skxx/233670/list/index.htm) &nbsp; [Material](https://faculty.hqu.edu.cn/WCH12/zh_CN/jxzy/233669/list/index.htm)
+
+---
+
 **计算机导论（Introduction to Computer Science）**
 
 *Department of Computer Science and Technology, Huaqiao University (Xiamen), Fall Semester, 2024* 
