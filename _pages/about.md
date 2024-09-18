@@ -17,6 +17,9 @@ Canhui Wang is currently a Lecturer (Research & Teaching) with Network and Infor
 
 Recent news
 ======
+
+<span style="color:red"> \[16 Sep 2024\] </span> Invite [Prof. Xiaowen Chu](https://repository.hkust.edu.hk/ir/AuthorProfile/chu-xiaowen) to give a talk at [华侨大学计算机科学与技术学院](https://cst.hqu.edu.cn).  
+
 <span style="color:red"> \[12 Aug 2024\] </span> Give a talk at [厦门大学信息学院](https://informatics.xmu.edu.cn/index.htm). Thanks [Prof. Yaobin Shen's](https://sites.google.com/view/yaobin) invitation.   
 
 <span style="color:red"> \[07 May 2024\] </span> Sponsored by the 5-year program of [厦门市高层次留学人员](http://hrss.xm.gov.cn) -\- for the work on research and teaching with HQU in Xiamen.
