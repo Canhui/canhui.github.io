@@ -62,6 +62,9 @@ Service
   * IEEE/ACM IWQoS, 2024
 * Session Chair (Conference)
   * AIPR 2023
+* CCF Blockchain Technical Committee Member
+* CCF High-Performance Computing Technical Committee Member 
+* CCF Security Technical Committee Member 
 
 
 <!-- **News on June 15, 2023:** Congratulations -->
