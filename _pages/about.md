@@ -71,7 +71,7 @@ Student Service
 ======
 * Class Teacher (班主任), 40 undergraduate students, Class 2024, Information Security, Department of Computer Science and Technology, Huaqiao University
 * Undergraduate Graduation Thesis, 6 undergraduate students, Year 2024-2025, Information Security, Department of Computer Science and Technology, Huaqiao University
-* Entrepreneurship and Innovation Project, Third Batch, Year 2024, Huaqiao University
+* Entrepreneurship and Innovation (双创) Project, Third Batch, Year 2024, Huaqiao University
 
 
 <!-- **News on June 15, 2023:** Congratulations -->
