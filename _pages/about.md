@@ -69,7 +69,7 @@ Professional Service
 
 Student Service
 ======
-* Class Adviser (班主任), 40 Undergraduate Students, Class 2024, Information Security, Department of Computer Science and Technology, Huaqiao University, Xiamen
+* Class Adviser (班主任), 40 Undergraduate Students, Year 2024-2028, Information Security, Department of Computer Science and Technology, Huaqiao University, Xiamen
 * Undergraduate Graduation Thesis, 6 Undergraduate Students, Year 2024-2025, Information Security, Department of Computer Science and Technology, Huaqiao University, Xiamen
 * Entrepreneurship and Innovation (双创) Project, Third Batch, Year 2024, Huaqiao University, Xiamen
 
