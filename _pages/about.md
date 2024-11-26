@@ -71,7 +71,7 @@ Student Service
 ======
 * Homeroom Teacher, 40 Undergraduate Students, Year 2024-2028, Information Security, Department of Computer Science and Technology, Huaqiao University, Xiamen
 * Undergraduate Graduation Thesis Adviser, 6 Undergraduate Students, Year 2024-2025, Information Security, Department of Computer Science and Technology, Huaqiao University, Xiamen
-* Entrepreneurship and Innovation Project Initiator, Third Batch, Year 2024, Huaqiao University, Xiamen
+* Demonstration Creation and Quality (双创) Project Drafter, Third Batch, Year 2024, Huaqiao University, Xiamen
 
 
 <!-- **News on June 15, 2023:** Congratulations -->
