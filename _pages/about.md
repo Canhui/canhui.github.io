@@ -110,7 +110,7 @@ Example: editing a markdown file for a talk
 
 Grants
 ======
-* Trusted Data Framework for Data Exchanges (ARD/294), Innovation and Technology Fund, Hong Kong, HKD\$2,799,000. Hosted by [Dr. Eric P. F. LAM](https://www.linkedin.com/in/peifunglam2/). \[Remarks: Core Member, Full-Time Participation，2023/09-2024/05\].
+* Trusted Data Framework for Data Exchanges (ARD/294), Innovation and Technology Fund, Hong Kong, HKD\$2,799,000. Hosted by [Dr. Eric P. F. LAM](https://www.linkedin.com/in/peifunglam2/). \[Remarks: Core Team Member, Full-Time Participation, 2023/09-2024/05\].
 
 
 Contact
