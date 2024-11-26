@@ -22,7 +22,7 @@ Recent news
 
 <span style="color:red"> \[12 Aug 2024\] </span> Give a talk at [Department of Informatics, Xiamen University](https://informatics.xmu.edu.cn/index.htm). Thanks [Prof. Yaobin Shen's](https://sites.google.com/view/yaobin) invitation.   
 
-<span style="color:red"> \[07 May 2024\] </span> Sponsored by the 5-year program of [厦门市高层次留学人员](http://hrss.xm.gov.cn) -\- for the work on research and teaching with HQU in Xiamen.
+<span style="color:red"> \[07 May 2024\] </span> Sponsored by the 5-year program of [Xiamen's Funding Scheme for High-Level Overseas Chinese Students' Return](http://hrss.xm.gov.cn) -\- for the work on research and teaching with HQU in Xiamen.
 
 <span style="color:red"> \[11 Apr 2024\] </span> Serve as a Technical Program Committee (TPC) member on [IEEE/ACM IWQoS 2024](https://iwqos2024.ieee-iwqos.org/committees/technical-program-committee) (CCF-B) -\- for the work on blockchain-based networking and queuing theory-based modeling.
 
