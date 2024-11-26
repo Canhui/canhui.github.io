@@ -28,7 +28,7 @@ Recent news
 
 <span style="color:red"> \[27 Sep 2023\] </span> Sponsored by the 3-year program of [Research Talent Hub](https://www.itf.gov.hk/en/funding-programmes/nurturing-talent/research-talent-hub/), Hong Kong Innovation and Technology Fund (RTH-ITF) -\- for the work on applied cryptosystems with ASTRI in Hong Kong.
 
-<span style="color:red"> \[15 Jun 2023\] </span> Congratulations to a success of my Ph.D. dissertation defense -\- for the contribution of quantitative analytics and long-term verifications by [Prof. Xiaowen Chu](https://scholar.google.com/citations?user=v4rX24EAAAAJ) and me on performance modeling and analysis of Bitcoin and Hyperledger Fabric blockchain distributed systems [(Ph.D. Dissertation/博士学位论文)](https://scholars.hkbu.edu.hk/ws/portalfiles/portal/80879547/G23THFL-042570T.pdf).
+<span style="color:red"> \[15 Jun 2023\] </span> Congratulations to a success of my Ph.D. dissertation defense -\- for the contribution of quantitative analytics and long-term verifications by [Prof. Xiaowen Chu](https://scholar.google.com/citations?user=v4rX24EAAAAJ) and me on performance modeling and analysis of Bitcoin and Hyperledger Fabric blockchain distributed systems [Ph.D. Dissertation](https://scholars.hkbu.edu.hk/ws/portalfiles/portal/80879547/G23THFL-042570T.pdf).
 
 
 
@@ -69,9 +69,9 @@ Professional Service
 
 Student Service
 ======
-* Class Adviser (班主任), 40 Undergraduate Students, Year 2024-2028, Information Security, Department of Computer Science and Technology, Huaqiao University, Xiamen
+* Class Adviser, 40 Undergraduate Students, Year 2024-2028, Information Security, Department of Computer Science and Technology, Huaqiao University, Xiamen
 * Undergraduate Graduation Thesis, 6 Undergraduate Students, Year 2024-2025, Information Security, Department of Computer Science and Technology, Huaqiao University, Xiamen
-* Entrepreneurship and Innovation (双创) Project, Third Batch, Year 2024, Huaqiao University, Xiamen
+* Entrepreneurship and Innovation Project, Third Batch, Year 2024, Huaqiao University, Xiamen
 
 
 <!-- **News on June 15, 2023:** Congratulations -->
@@ -110,7 +110,7 @@ Example: editing a markdown file for a talk
 
 Grants
 ======
-* Trusted Data Framework for Data Exchanges (ARD/294), Innovation and Technology Fund, Hong Kong, HKD\$2,799,000. Hosted by [Dr. Eric P. F. LAM](https://www.linkedin.com/in/peifunglam2/). \[Remarks: 团队核心成员之一，全职参与，已结题，2023/09-2024/05\].
+* Trusted Data Framework for Data Exchanges (ARD/294), Innovation and Technology Fund, Hong Kong, HKD\$2,799,000. Hosted by [Dr. Eric P. F. LAM](https://www.linkedin.com/in/peifunglam2/). \[Remarks: Core Member, Full-Time Participation，2023/09-2024/05\].
 
 
 Contact
