@@ -50,7 +50,7 @@ IEEE HPCC, 2021 (reviewer)
 
 
 
-Professional Service
+Professional service
 ======
 * Reviewer (Journal)
   * IEEE Transactions on Cloud Computing, 2024
@@ -67,7 +67,7 @@ Professional Service
 * CCF High-Performance Computing Technical Committee Member 
 * CCF Security Technical Committee Member 
 
-Student Service
+Student service
 ======
 * Homeroom Teacher, 40 Undergraduate Students, Year 2024-2028, Information Security, Department of Computer Science and Technology, Huaqiao University, Xiamen
 * Undergraduate Graduation Thesis Adviser, 6 Undergraduate Students, Year 2024-2025, Information Security, Department of Computer Science and Technology, Huaqiao University, Xiamen
@@ -108,12 +108,12 @@ Many people use a git client to create files on their local computer and then pu
 Example: editing a markdown file for a talk
 ![Editing a markdown file for a talk](/images/editing-talk.png) For more info -->
 
-Research Grants
+Research grants
 ======
 * Trusted Data Framework for Data Exchanges (ARD/294), Innovation and Technology Fund, Hong Kong, HKD\$2,799,000. Hosted by [Dr. Eric P. F. LAM](https://www.linkedin.com/in/peifunglam2/). \[Remarks: Core Team Member, Full-Time Participation, 2023/09-2024/05\].
 
 
-Contact
+Contact me
 ======
 Please contact me via E-mails: <ins>chwang@hqu.edu.cn</ins> or <ins>canhui_wang@qq.com</ins>. For more information, please find my [ORCID](https://orcid.org/0000-0001-7869-9083), [Google Scholar](https://scholar.google.com/citations?user=_pEPpkUAAAAJ), [Linkedin](https://www.linkedin.com/in/canhui-wang-ph-d-54a84017a/), and [Web of Science ResearcherID](https://www.webofscience.com/wos/author/record/HLX-9012-2023).
 
