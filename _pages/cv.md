@@ -21,6 +21,8 @@ Work experience
 * Lecturer (Research & Teaching), 2023/12-Present
   * Department of Computer Science and Technology, Huaqiao University (Xiamen)
   * Division: Network and Information Security (NIS)
+  * Affiliation: Xiamen Key Laboratory of Data Security and Blockchain Technology
+  * Affiliation: Key Laboratory of Computer Vision and Machine Learning of Fujian Provincial Universities (Network and Application Intelligence Direction)
 
 * Senior Engineer (PI), 2023/09-2024/05
   * Hong Kong Applied Science and Technology Research Institute
