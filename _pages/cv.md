@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D., Hong Kong Baptist University, Computer Science, Principal Supervisor [Prof. Xiaowen Chu](https://www.comp.hkbu.edu.hk/~chxw/), Co-Supervisor [Prof. Yiu-Wing Leung](https://www.comp.hkbu.edu.hk/v1/?page=profile&id=ywleung), External Committee Members [Prof. Bin Xiao](https://web.comp.polyu.edu.hk/csbxiao/), IEEE Fellow, [Dr. Qiang Tang](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/qiang-tang.html), 2017/09-2023/06
+* Ph.D., Hong Kong Baptist University, Computer Science, Principal Supervisor [Prof. Xiaowen Chu](https://www.comp.hkbu.edu.hk/~chxw/), IEEE Fellow, Co-Supervisor [Prof. Yiu-Wing Leung](https://www.comp.hkbu.edu.hk/v1/?page=profile&id=ywleung), External Committee Members [Prof. Bin Xiao](https://web.comp.polyu.edu.hk/csbxiao/), IEEE Fellow, [Dr. Qiang Tang](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/qiang-tang.html), 2017/09-2023/06
 * B.Eng., Shandong University, Software Engineering, 2012/09-2016/07
 
 Work experience
