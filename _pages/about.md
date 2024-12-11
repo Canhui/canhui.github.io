@@ -49,11 +49,6 @@ Professional service
 * CCF Security Technical Committee Member 
 
 
-Research grants
-======
-* Trusted Data Framework for Data Exchanges (ARD/294), Innovation and Technology Fund, Hong Kong, HKD\$2,799,000. Hosted by [Dr. Eric P. F. LAM](https://www.linkedin.com/in/peifunglam2/). \[Remarks: Core Team Member, Full-Time Participation, 2023/09-2024/05\].
-
-
 Awards & prizes
 ======
 * [Xiamen Funding Scheme for High-Level Overseas Chinese Students' Return](http://hrss.xm.gov.cn), Ministry of Human Resources and Social Security, Xiamen, 2024/05
@@ -64,6 +59,11 @@ Awards & prizes
 * Teaching-Assistant Performance Award, Operating Systems, [CS](https://www.comp.hkbu.edu.hk/v1/), HKBU, Hong Kong, 2019/04
 * Outstanding Teaching-Assistant Performance Award, Principles and Practices of Data Analytics, [CS](https://www.comp.hkbu.edu.hk/v1/), HKBU, Hong Kong, 2018/12
 * Full [Postgraduate Studentship](https://gs.hkbu.edu.hk/), Graduate School, HKBU, Hong Kong, 2017/09-2021/09
+
+
+Research grants
+======
+* Trusted Data Framework for Data Exchanges (ARD/294), Innovation and Technology Fund, Hong Kong, HKD\$2,799,000. Hosted by [Dr. Eric P. F. LAM](https://www.linkedin.com/in/peifunglam2/). \[Remarks: Core Team Member, Full-Time Participation, 2023/09-2024/05\].
 
 
 Contact me
