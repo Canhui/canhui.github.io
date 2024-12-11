@@ -109,7 +109,7 @@ Many people use a git client to create files on their local computer and then pu
 Example: editing a markdown file for a talk
 ![Editing a markdown file for a talk](/images/editing-talk.png) For more info -->
 
-Awards & Prizes
+Awards & prizes
 ======
 * [Xiamen's Funding Scheme for High-Level Overseas Chinese Students' Return](http://hrss.xm.gov.cn), Xiamen, 2024/05
 * Third Prize, ["A Wonderful Class" Teaching Competition](https://jsfz.hqu.edu.cn/info/1035/5114.htm), Xiamen, 2024/04
