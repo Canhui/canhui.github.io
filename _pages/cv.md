@@ -49,13 +49,13 @@ Work experience
   * Hong Kong Baptist University
   * Course on: Design and Analysis of Algorithms (i.e., Prof. Cheung and me gave weekly tutorials in class)
   * <span style="color:blue">Award: Teaching-Assistant Performance Award</span>
-  * Instructor: [Prof. Yiu Ming Cheung](https://www.comp.hkbu.edu.hk/~ymc/), IEEE Fellow
+  * Instructor: [Prof. Yiu Ming Cheung](https://www.comp.hkbu.edu.hk/~ymc/), <span style="color:blue">IEEE Fellow</span>
   
 * Teaching Assistant, 2020/01-2020/04
   * Hong Kong Baptist University
   * Course on: Design and Analysis of Algorithms (i.e., Prof. Cheung and me gave weekly tutorials in class)
   * <span style="color:blue">Award: Excellent Teaching-Assistant Performance Award</span>
-  * Instructor: [Prof. Yiu Ming Cheung](https://www.comp.hkbu.edu.hk/~ymc/), IEEE Fellow
+  * Instructor: [Prof. Yiu Ming Cheung](https://www.comp.hkbu.edu.hk/~ymc/), <span style="color:blue">IEEE Fellow</span>
 
 * Teaching Assistant, 2020/01-2020/04
   * Hong Kong Baptist University
