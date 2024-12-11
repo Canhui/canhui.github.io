@@ -59,7 +59,7 @@ Awards & prizes
 * Excellent Teaching-Assistant Performance Award, Design and Analysis of Algorithms, [CS](https://www.comp.hkbu.edu.hk/v1/), HKBU, Hong Kong, 2020/04
 * Teaching-Assistant Performance Award, Operating Systems, [CS](https://www.comp.hkbu.edu.hk/v1/), HKBU, Hong Kong, 2019/04
 * Outstanding Teaching-Assistant Performance Award, Principles and Practices of Data Analytics, [CS](https://www.comp.hkbu.edu.hk/v1/), HKBU, Hong Kong, 2018/12
-* Full Postgraduate Studentship, [Graduate School](https://gs.hkbu.edu.hk/), HKBU, Hong Kong, 2017/09-2021/09
+* Full [Postgraduate Studentship](https://gs.hkbu.edu.hk/), Graduate School, HKBU, Hong Kong, 2017/09-2021/09
 
 Research grants
 ======
