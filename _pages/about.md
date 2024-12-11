@@ -54,7 +54,7 @@ Research grants
 * Trusted Data Framework for Data Exchanges (ARD/294), Innovation and Technology Fund, Hong Kong, HKD\$2,799,000. Hosted by [Dr. Eric P. F. LAM](https://www.linkedin.com/in/peifunglam2/). \[Remarks: Core Team Member, Full-Time Participation, 2023/09-2024/05\].
 
 
-Awards & prizes (Research & Teaching)
+Awards & prizes
 ======
 * [Xiamen Funding Scheme for High-Level Overseas Chinese Students' Return](http://hrss.xm.gov.cn), Ministry of Human Resources and Social Security, Xiamen, 2024/05
 * Third Prize, Teaching Competition of [A Wonderful Class](https://jsfz.hqu.edu.cn/info/1035/5114.htm), HQU, Xiamen, 2024/04
