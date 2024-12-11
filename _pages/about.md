@@ -49,8 +49,12 @@ Professional service
 * CCF Security Technical Committee Member 
 
 
+Research grants
+======
+* Trusted Data Framework for Data Exchanges (ARD/294), Innovation and Technology Fund, Hong Kong, HKD\$2,799,000. Hosted by [Dr. Eric P. F. LAM](https://www.linkedin.com/in/peifunglam2/). \[Remarks: Core Team Member, Full-Time Participation, 2023/09-2024/05\].
 
-Awards & prizes
+
+Awards & prizes (Research & Teaching)
 ======
 * [Xiamen Funding Scheme for High-Level Overseas Chinese Students' Return](http://hrss.xm.gov.cn), Ministry of Human Resources and Social Security, Xiamen, 2024/05
 * Third Prize, Teaching Competition of [A Wonderful Class](https://jsfz.hqu.edu.cn/info/1035/5114.htm), HQU, Xiamen, 2024/04
@@ -61,16 +65,8 @@ Awards & prizes
 * Outstanding Teaching-Assistant Performance Award, Principles and Practices of Data Analytics, [CS](https://www.comp.hkbu.edu.hk/v1/), HKBU, Hong Kong, 2018/12
 * Full [Postgraduate Studentship](https://gs.hkbu.edu.hk/), Graduate School, HKBU, Hong Kong, 2017/09-2021/09
 
-Research grants
-======
-* Trusted Data Framework for Data Exchanges (ARD/294), Innovation and Technology Fund, Hong Kong, HKD\$2,799,000. Hosted by [Dr. Eric P. F. LAM](https://www.linkedin.com/in/peifunglam2/). \[Remarks: Core Team Member, Full-Time Participation, 2023/09-2024/05\].
-
 
 Contact me
 ======
 Please contact me via E-mails: <ins>chwang@hqu.edu.cn</ins> or <ins>canhui_wang@qq.com</ins>. For more information, please find my [ORCID](https://orcid.org/0000-0001-7869-9083), [Google Scholar](https://scholar.google.com/citations?user=_pEPpkUAAAAJ), [Linkedin](https://www.linkedin.com/in/canhui-wang-ph-d-54a84017a/), and [Web of Science ResearcherID](https://www.webofscience.com/wos/author/record/HLX-9012-2023).
 
-<!-- 
-For more info
-------
-You may reach me via emails: <ins>chwang@hqu.edu.cn</ins> or <ins>canhuiwang@astri.org</ins>. For more information, please refer to [ORCID](https://orcid.org/0000-0001-7869-9083), [Google Scholar](https://scholar.google.com/citations?user=_pEPpkUAAAAJ), [Linkedin](https://www.linkedin.com/in/canhui-wang-ph-d-54a84017a/), and [Web of Science ResearcherID](https://www.webofscience.com/wos/author/record/HLX-9012-2023). -->
