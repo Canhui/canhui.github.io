@@ -109,6 +109,13 @@ Many people use a git client to create files on their local computer and then pu
 Example: editing a markdown file for a talk
 ![Editing a markdown file for a talk](/images/editing-talk.png) For more info -->
 
+Awards & Prizes
+======
+* [Xiamen's Funding Scheme for High-Level Overseas Chinese Students' Return](http://hrss.xm.gov.cn), Xiamen, 2024/05
+* Third Prize, ["A Wonderful Class" Teaching Competition](https://jsfz.hqu.edu.cn/info/1035/5114.htm), Xiamen, 2024/04
+* Research Talent Hub Sponsorship, Innovation and Technology Fund, Hong Kong, 2023/09
+* Full Postgraduate Studentship, HKBU Graduate School, Hong Kong, 2017/09-2021/09 
+
 Research grants
 ======
 * Trusted Data Framework for Data Exchanges (ARD/294), Innovation and Technology Fund, Hong Kong, HKD\$2,799,000. Hosted by [Dr. Eric P. F. LAM](https://www.linkedin.com/in/peifunglam2/). \[Remarks: Core Team Member, Full-Time Participation, 2023/09-2024/05\].
