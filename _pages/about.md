@@ -113,7 +113,7 @@ Awards & prizes
 ======
 * [Xiamen's Funding Scheme for High-Level Overseas Chinese Students' Return](http://hrss.xm.gov.cn), Xiamen, 2024/05
 * Third Prize, [Teaching Competition of A Wonderful Class](https://jsfz.hqu.edu.cn/info/1035/5114.htm), Xiamen, 2024/04
-* Research Talent Hub Sponsorship, [Innovation and Technology Fund](https://www.itf.gov.hk/en/home/index.html), Hong Kong, 2023/09
+* Full Research Talent Hub Sponsorship, [Innovation and Technology Fund](https://www.itf.gov.hk/en/home/index.html), Hong Kong, 2023/09
 * Full Postgraduate Studentship, [HKBU Graduate School](https://gs.hkbu.edu.hk/), Hong Kong, 2017/09-2021/09 
 
 Research grants
