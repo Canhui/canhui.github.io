@@ -54,7 +54,7 @@ Awards & prizes
 ======
 * [Xiamen Funding Scheme for High-Level Overseas Chinese Students' Return](http://hrss.xm.gov.cn), Ministry of Human Resources and Social Security, Xiamen, 2024/05
 * Third Prize, Teaching Competition of [A Wonderful Class](https://jsfz.hqu.edu.cn/info/1035/5114.htm), HQU, Xiamen, 2024/04
-* Full [Research Talent Hub](https://www.itf.gov.hk/en/home/index.html) Sponsorship, Innovation and Technology Fund, Hong Kong, 2023/09
+* Full [Research Talent Hub Sponsorship](https://www.itf.gov.hk/en/home/index.html), Innovation and Technology Fund, Hong Kong, 2023/09
 * Teaching-Assistant Performance Award, Design and Analysis of Algorithms, [CS](https://www.comp.hkbu.edu.hk/v1/), HKBU, Hong Kong, 2020/12
 * Excellent Teaching-Assistant Performance Award, Design and Analysis of Algorithms, [CS](https://www.comp.hkbu.edu.hk/v1/), HKBU, Hong Kong, 2020/04
 * Teaching-Assistant Performance Award, Operating Systems, [CS](https://www.comp.hkbu.edu.hk/v1/), HKBU, Hong Kong, 2019/04
