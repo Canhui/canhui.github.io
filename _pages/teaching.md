@@ -43,7 +43,7 @@ author_profile: true
 2023-2024, Semester 3
 ======
 
-**信息安全导论（Introduction to Information Security）**, , 32 lecture hours + 0 lab hours
+**信息安全导论（Introduction to Information Security）**, 32 lecture hours + 0 lab hours
 
 *Department of Computer Science and Technology, Huaqiao University (Xiamen), Summer Semester, 2024 Summer* 
 
