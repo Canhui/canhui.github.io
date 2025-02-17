@@ -40,6 +40,9 @@ author_profile: true
 
 ---
 
+2024
+======
+
 **信息安全导论（Introduction to Information Security）**
 
 *Department of Computer Science and Technology, Huaqiao University (Xiamen), Summer Semester, 2024* 
