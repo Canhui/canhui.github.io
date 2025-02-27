@@ -13,6 +13,32 @@ author_profile: true
 
 ---
 
+2024-2025, Semester 2
+======
+
+**区块链原理与技术（Fundamentals of Blockchain Technology）**, 32 lecture hours + 0 lab hours 
+
+*Department of Computer Science and Technology, Huaqiao University (Xiamen), Spring Semester, 2025 Spring* 
+
+[Course](https://faculty.hqu.edu.cn/WCH12/zh_CN/skxx/233670/list/index.htm) &nbsp; [Material](https://faculty.hqu.edu.cn/WCH12/zh_CN/jxzy/233669/list/index.htm)
+
+---
+
+**计算机技术前沿技术报告（Introduction to Computer Technology: Frontier Technical Report）**, 4 lecture hours + 0 lab hours 
+
+*Department of Computer Science and Technology, Huaqiao University (Xiamen), Spring Semester, 2025 Spring* 
+
+---
+
+**网络与信息安全（Network and Information Security）**, 32 lecture hours + 0 lab hours 
+
+*Department of Computer Science and Technology, Huaqiao University (Xiamen), Spring Semester, 2025 Spring* 
+
+[Course](https://faculty.hqu.edu.cn/WCH12/zh_CN/skxx/233670/list/index.htm) &nbsp; [Material](https://faculty.hqu.edu.cn/WCH12/zh_CN/jxzy/233669/list/index.htm)
+
+---
+
+
 2024-2025, Semester 1
 ======
 
@@ -48,5 +74,11 @@ author_profile: true
 *Department of Computer Science and Technology, Huaqiao University (Xiamen), Summer Semester, 2024 Summer* 
 
 [Course](https://faculty.hqu.edu.cn/WCH12/zh_CN/skxx/233670/list/index.htm) &nbsp; [Material](https://faculty.hqu.edu.cn/WCH12/zh_CN/jxzy/233669/list/index.htm)
+
+---
+
+**计算机技术前沿技术报告（Introduction to Computer Technology: Frontier Technical Report）**, 1 lecture hours + 0 lab hours 
+
+*Department of Computer Science and Technology, Huaqiao University (Xiamen), Summer Semester, 2024 Summer* 
 
 ---
