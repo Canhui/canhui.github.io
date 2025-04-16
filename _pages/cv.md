@@ -17,10 +17,9 @@ Education
 Work experience
 ======
 * Lecturer (Research & Teaching), 2023/12-Present
-  * Department of Computer Science and Technology, Huaqiao University (Xiamen)
-  * Division: Network and Information Security (NIS)
+  * Network and Information Security (NIS) Division, Department of Computer Science and Technology, Huaqiao University (Xiamen)
   * Research Team: [Network Intelligent Computing](https://cst.hqu.edu.cn/info/1059/30931.htm)
-    * Director: [Prof. Zhenguo GAO](https://www.x-mol.com/groups/AIot/people/55330)
+  * Director: [Prof. Zhenguo GAO](https://www.x-mol.com/groups/AIot/people/55330)
   * Affiliation 1: Xiamen Key Laboratory of Data Security and Blockchain Technology
   * Affiliation 2: Key Laboratory of Computer Vision and Machine Learning of Fujian Provincial Universities (Network and Application Intelligence Direction)
 
