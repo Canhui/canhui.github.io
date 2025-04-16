@@ -72,6 +72,5 @@ Contact me
 ======
 Please contact me via E-mails: <ins>chwang@hqu.edu.cn</ins> or <ins>canhui_wang@qq.com</ins>. For more information, please find my [ORCID](https://orcid.org/0000-0001-7869-9083), [Google Scholar](https://scholar.google.com/citations?user=_pEPpkUAAAAJ), [Linkedin](https://www.linkedin.com/in/canhui-wang-ph-d-54a84017a/), and [Web of Science ResearcherID](https://www.webofscience.com/wos/author/record/HLX-9012-2023). Other useful links: [link 1](https://ccfddl.com/).
 
-WeChat Account:
-<img src='/images/WeChat.jpg' width="280">
+<img src='/images/WeChat.jpg' width="280" class="center">
 
