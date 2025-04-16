@@ -76,5 +76,5 @@ Please contact me via E-mails: <ins>chwang@hqu.edu.cn</ins> or <ins>canhui_wang@
   <img src='/images/WeChat.jpg' width="280" class="left">
 </p>
 
-<img src='/images/WeChat.jpg' width="280" class="center">
+<img src='/images/WeChat.jpg' width="280">
 
