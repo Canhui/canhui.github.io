@@ -18,7 +18,7 @@ Canhui Wang is currently a Lecturer (Research & Teaching) with Network and Infor
 Recent news
 ======
 
-<span style="color:red"> \[21 Jun 2025\] </span> Serve as a PC member on [IEEE MetaCom 2025](https://ieee-metacom.org/) ([Blockchain and Web 3.0](https://easychair.org/conferences2/submissions?a=34918422) Session).
+<span style="color:red"> \[21 Jun 2025\] </span> Serve as a PC member on [IEEE MetaCom 2025](https://ieee-metacom.org/) of [Blockchain and Web 3.0](https://easychair.org/conferences2/submissions?a=34918422).
 
 <span style="color:red"> \[16 Sep 2024\] </span> Invite [Prof. Xiaowen Chu](https://repository.hkust.edu.hk/ir/AuthorProfile/chu-xiaowen) to give a talk at [Department of Computer Science and Technology, Huaqiao University](https://cst.hqu.edu.cn).  
 
@@ -45,7 +45,7 @@ Professional service
 * Technical Program Committee (Conference)
   * IEEE/ACM IWQoS, 2024
 * Program Committee Member (Conference)
-  * IEEE MetaCom (Blockchain and Web 3.0 Session), 2025
+  * IEEE MetaCom (of Blockchain and Web 3.0), 2025
 * Session Chair (Conference)
   * AIPR 2023
 * IEEE Member, 2025, 2024
