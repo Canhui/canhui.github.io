@@ -18,9 +18,9 @@ Canhui Wang is currently a Lecturer (Research & Teaching) with Network and Infor
 Recent news
 ======
 
-<span style="color:red"> \[15 Jul 2025\] </span> One research project supported by the Research Grant of Huaqiao University (25BS127).
+<span style="color:red"> \[15 Jul 2025\] </span> One research project supported by the Research Grant of Huaqiao University (No. 25BS127).
 
-<span style="color:red"> \[07 Jul 2025\] </span> One research project supported by [The Young Scientists Fund of Natural Science Foundation of Xiamen](http://sti.xm.gov.cn/xxgk/tzgg/202507/t20250703_2943157.htm) (3502Z202572013).
+<span style="color:red"> \[07 Jul 2025\] </span> One research project supported by [The Young Scientists Fund of Natural Science Foundation of Xiamen](http://sti.xm.gov.cn/xxgk/tzgg/202507/t20250703_2943157.htm) (No. 3502Z202572013).
 
 <span style="color:red"> \[21 Jun 2025\] </span> Serve as a PC member on [IEEE MetaCom 2025](https://ieee-metacom.org/) of [Blockchain and Web 3.0](https://easychair.org/conferences2/submissions?a=34918422).
 
