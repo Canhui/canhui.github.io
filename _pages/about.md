@@ -20,9 +20,9 @@ Job openings
 Recent news
 ======
 
-<span style="color:red"> \[15 Jul 2025\] </span> One start-up research grant supported by [Huaqiao University, Xiamen](https://kyy.hqu.edu.cn/).
+<span style="color:red"> \[15 Jul 2025\] </span> One start-up research project funded by [Huaqiao University, Xiamen](https://kyy.hqu.edu.cn/).
 
-<span style="color:red"> \[07 Jul 2025\] </span> One research grant supported by [The Young Scientists Fund of Natural Science Foundation of Xiamen](http://sti.xm.gov.cn/xxgk/tzgg/202507/t20250703_2943157.htm).
+<span style="color:red"> \[07 Jul 2025\] </span> One research project funded by [The Young Scientists Fund of Natural Science Foundation of Xiamen](http://sti.xm.gov.cn/xxgk/tzgg/202507/t20250703_2943157.htm).
 
 <span style="color:red"> \[21 Jun 2025\] </span> Serve as a PC member on [IEEE MetaCom 2025](https://ieee-metacom.org/) of [Blockchain and Web 3.0](https://easychair.org/conferences2/submissions?a=34918422).
 
