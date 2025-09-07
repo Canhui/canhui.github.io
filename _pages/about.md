@@ -14,7 +14,7 @@ Canhui Wang is currently a Lecturer (Research & Teaching) with Network and Infor
 
 Job openings
 ======
-<span style="color:red"> For students who are interested in working on a research project or participating in a competition, please feel free to contact me.</span>
+<span style="color:red"> For students who are interested in working on a research project (e.g., [Link 1](https://ccfddl.com/)) or participating in a competition (e.g., [Link 2](https://cst.hqu.edu.cn/info/1714/32141.htm), [Link 3](https://jwc.hqu.edu.cn/info/1089/12814.htm)), please feel free to contact me.</span>
 
 
 Recent news
@@ -80,7 +80,7 @@ Research grants
 
 Contact me
 ======
-Please contact me via E-mails: <ins>chwang@hqu.edu.cn</ins> or <ins>canhui_wang@qq.com</ins>. For more information, please find my [ORCID](https://orcid.org/0000-0001-7869-9083), [Google Scholar](https://scholar.google.com/citations?user=_pEPpkUAAAAJ), [Linkedin](https://www.linkedin.com/in/canhui-wang-ph-d-54a84017a/), and [Web of Science ResearcherID](https://www.webofscience.com/wos/author/record/HLX-9012-2023). Other useful links: [Link 1](https://ccfddl.com/), [Link 2](https://cst.hqu.edu.cn/info/1714/32141.htm).
-<p align="left">
+Please contact me via E-mails: <ins>chwang@hqu.edu.cn</ins> or <ins>canhui_wang@qq.com</ins>. For more information, please find my [ORCID](https://orcid.org/0000-0001-7869-9083), [Google Scholar](https://scholar.google.com/citations?user=_pEPpkUAAAAJ), [Linkedin](https://www.linkedin.com/in/canhui-wang-ph-d-54a84017a/), and [Web of Science ResearcherID](https://www.webofscience.com/wos/author/record/HLX-9012-2023). 
+  
   <img src='/images/WeChat.jpg' width="238">
 </p>
