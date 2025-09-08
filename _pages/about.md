@@ -14,7 +14,7 @@ Canhui Wang is currently a Lecturer (Research & Teaching) with Network and Infor
 
 Job openings
 ======
-<span style="color:red"> For students who are interested in working on research problems (e.g., [Link 1](https://ccfddl.com/)), real-world engineering projects, or students' competitions (e.g., [Link 2](https://cst.hqu.edu.cn/info/1714/32141.htm), [Link 3](https://jwc.hqu.edu.cn/info/1089/12814.htm)), please feel free to contact me.</span>
+<span style="color:red"> For students who are interested in working on research problems (e.g., [Paper Submissions](https://ccfddl.com/)), real-world engineering projects, or students' competitions (e.g., [Subject Competitions](https://jwc.hqu.edu.cn/index/xkjs.htm), [Subject Submissions (Department)](https://cst.hqu.edu.cn/info/1714/32141.htm), [Innovation and Entrepreneurship Competitions](https://cst.hqu.edu.cn/xsgz/kcjs.htm)), please feel free to contact me.</span>
 
 
 Recent news
