@@ -53,7 +53,7 @@ Professional service
 * Program Committee Member (Conference)
   * IEEE MetaCom 2025 of Blockchain and Web 3.0
 * Session Chair (Conference)
-  * AIPR 2023
+  * AIPR 2023, 2025
 * IEEE Member, 2025, 2024
 * ACM Member, 2025, 2024
 * CCF Blockchain Technical Committee Member, 2025, 2024
