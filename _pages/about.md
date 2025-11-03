@@ -43,6 +43,7 @@ Professional service
 ======
 * Reviewer (Journal)
   * IEEE Transactions on Cloud Computing, 2025, 2024
+  * IEEE Transactions on Dependable and Secure Computing, 2025
   * IEEE Network Magazine, 2024, 2023
   * IEEE Transactions on Big Data, 2023
 * Reviewer (Conference)
