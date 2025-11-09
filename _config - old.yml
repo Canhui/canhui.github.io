@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Canhui Wang, Ph.D."
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Canhui Wang"
 description              : &description "Home"
