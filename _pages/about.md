@@ -75,6 +75,7 @@ Professional service
 
 Awards & prizes
 ======
+* [Xiamen Key Talent Program (2025)](https://hrss.xm.gov.cn/xxgk/shgs/202512/t20251222_2973008.htm), Ministry of Human Resources and Social Security, Xiamen, 2025/12.
 * [Xiamen Funding Scheme for High-Level Overseas Chinese Students' Return](http://hrss.xm.gov.cn), Ministry of Human Resources and Social Security, Xiamen, 2024/05.
 * Third Prize, Teaching Competition of [A Wonderful Class](https://jsfz.hqu.edu.cn/info/1035/5114.htm), Department of Computer Science and Technology, HQU, Xiamen, 2024/04.
 * Full [Research Talent Hub Sponsorship](https://www.itf.gov.hk/en/home/index.html), Innovation and Technology Fund, Hong Kong, 2023/09.
