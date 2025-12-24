@@ -38,6 +38,15 @@ Recent news
 
 <span style="color:red"> \[15 Jun 2023\] </span> Congratulations to a success of my Ph.D. dissertation defense -\- for the contribution of quantitative analytics and long-term verifications by [Prof. Xiaowen Chu](https://scholar.google.com/citations?user=v4rX24EAAAAJ) and me on performance modeling and analysis of Bitcoin and Hyperledger Fabric blockchain distributed systems ([Ph.D. Dissertation/博士學位論文](https://scholars.hkbu.edu.hk/ws/portalfiles/portal/80879547/G23THFL-042570T.pdf)).
 
+Academic activities
+======
+
+<span style="color:red"> \[13 Dec 2025\] </span> Participate in the [Fujian Provincial Computer Society 2025 Annual Academic Conference](https://www.hqu.edu.cn/info/1071/715843.htm), Xiamen, China.
+
+<span style="color:red"> \[28 Nov 2025\] </span> Participate in the [2025 CCF ChinaSoft](https://chinasoft.ccf.org.cn/#home), Wuhan, China.
+
+<span style="color:red"> \[28 Aug 2025\] </span> Participate in the [2025 CCF ChinaStorage](https://ccf.org.cn/chinastorage2025), Wuhan, China.
+
 
 Professional service
 ======
