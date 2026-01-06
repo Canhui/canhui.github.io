@@ -34,7 +34,7 @@ Recent news
 
 <details>
 
-<summary>more</summary>
+<summary>click for more</summary>
 
 ### You can add a header
 
