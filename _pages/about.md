@@ -37,8 +37,8 @@ Recent news
 
 <span style="color:red"> \[15 Jun 2023\] </span> Congratulations to a success of my Ph.D. dissertation defense -\- for the contribution of quantitative analytics and long-term verifications by [Prof. Xiaowen Chu](https://scholar.google.com/citations?user=v4rX24EAAAAJ) and me on performance modeling and analysis of Bitcoin and Hyperledger Fabric blockchain distributed systems ([Ph.D. Dissertation/博士學位論文](https://scholars.hkbu.edu.hk/ws/portalfiles/portal/80879547/G23THFL-042570T.pdf)).
 
-```python
-print("hi")
+```markdown
+<span style="color:red"> \[15 Jun 2023\] </span> Congratulations to a success of my Ph.D. dissertation defense -\- for the contribution of quantitative analytics and long-term verifications by [Prof. Xiaowen Chu](https://scholar.google.com/citations?user=v4rX24EAAAAJ) and me on performance modeling and analysis of Bitcoin and Hyperledger Fabric block
 
 ```
 
