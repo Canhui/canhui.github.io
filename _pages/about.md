@@ -32,6 +32,22 @@ Recent news
 
 <span style="color:red"> \[15 Jun 2023\] </span> Congratulations to a success of my Ph.D. dissertation defense -\- for the contribution of quantitative analytics and long-term verifications by [Prof. Xiaowen Chu](https://scholar.google.com/citations?user=v4rX24EAAAAJ) and me on performance modeling and analysis of Bitcoin and Hyperledger Fabric blockchain distributed systems ([Ph.D. Dissertation/博士學位論文](https://scholars.hkbu.edu.hk/ws/portalfiles/portal/80879547/G23THFL-042570T.pdf)).
 
+<details>
+
+<summary>Tips for collapsed sections</summary>
+
+### You can add a header
+
+You can add text within a collapsed section.
+
+You can add an image or a code block, too.
+
+```ruby
+   puts "Hello World"
+```
+
+</details>
+
 Academic activities
 ======
 
