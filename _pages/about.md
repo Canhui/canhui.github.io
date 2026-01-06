@@ -34,7 +34,7 @@ Recent news
 
 <details>
 
-<summary>Tips for collapsed sections</summary>
+<summary>more</summary>
 
 ### You can add a header
 
