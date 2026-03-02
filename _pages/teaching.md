@@ -13,6 +13,58 @@ author_profile: true
 
 ---
 
+# 2025-2026, Semester 1
+
+**数据结构（Data Structures）**, 64 lecture hours + 21 lab hours
+
+*Department of Computer Science and Technology, Huaqiao University (Xiamen), Fall Semester, 2025 Autumn*
+
+[Course](https://faculty.hqu.edu.cn/WCH12/zh_CN/skxx/233670/list/index.htm)   [Material](https://faculty.hqu.edu.cn/WCH12/zh_CN/jxzy/233669/list/index.htm)
+
+---
+
+**计算机导论（Introduction to Computer Science）**, 33 lecture hours + 9 lab hours
+
+*Department of Computer Science and Technology, Huaqiao University (Xiamen), Fall Semester, 2025 Autumn*
+
+[Course](https://faculty.hqu.edu.cn/WCH12/zh_CN/skxx/233670/list/index.htm)   [Material](https://faculty.hqu.edu.cn/WCH12/zh_CN/jxzy/233669/list/index.htm)
+
+---
+
+**计算机导论（Introduction to Computer Science, Quanzhou Campus, with Prof. Yongxin Liao）**, 33 lecture hours + 0 lab hours
+
+*Department of Computer Science and Technology, Huaqiao University (Xiamen), Fall Semester, 2025 Autumn*
+
+[Course](https://faculty.hqu.edu.cn/WCH12/zh_CN/skxx/233670/list/index.htm)   [Material](https://faculty.hqu.edu.cn/WCH12/zh_CN/jxzy/233669/list/index.htm)
+
+---
+
+**高级计算机网络（Advanced Computer Networks）**, 48 lecture hours + 0 lab hours
+
+*Department of Computer Science and Technology, Huaqiao University (Xiamen), Fall Semester, 2025 Autumn*
+
+[Course](https://faculty.hqu.edu.cn/WCH12/zh_CN/skxx/233670/list/index.htm)   [Material](https://faculty.hqu.edu.cn/WCH12/zh_CN/jxzy/233669/list/index.htm)
+
+---
+
+# 2024-2025, Semester 3
+
+**网络安全专题选讲（Selected Topics in Cybersecurity）**, 2 lecture hours + 0 lab hours
+
+*Department of Computer Science and Technology, Huaqiao University (Xiamen), Third Semester, 2025 Summer*
+
+[Course](https://faculty.hqu.edu.cn/WCH12/zh_CN/skxx/233670/list/index.htm)   [Material](https://faculty.hqu.edu.cn/WCH12/zh_CN/jxzy/233669/list/index.htm)
+
+---
+
+**学术讲座（Seminar）**, 1 lecture hours + 0 lab hours
+
+*Department of Computer Science and Technology, Huaqiao University (Xiamen), Third Semester, 2025 Summer*
+
+[Course](https://faculty.hqu.edu.cn/WCH12/zh_CN/skxx/233670/list/index.htm)   [Material](https://faculty.hqu.edu.cn/WCH12/zh_CN/jxzy/233669/list/index.htm)
+
+---
+
 2024-2025, Semester 2
 ======
 
@@ -37,7 +89,6 @@ author_profile: true
 [Course](https://faculty.hqu.edu.cn/WCH12/zh_CN/skxx/233670/list/index.htm) &nbsp; [Material](https://faculty.hqu.edu.cn/WCH12/zh_CN/jxzy/233669/list/index.htm)
 
 ---
-
 
 2024-2025, Semester 1
 ======
