@@ -58,6 +58,7 @@ Academic activities
 Professional service
 ======
 * Reviewer (Journal)
+  * IEEE Transactions on Network and Service Management, 2026
   * IEEE Transactions on Cloud Computing, 2025, 2024
   * IEEE Transactions on Dependable and Secure Computing, 2025
   * IEEE Network Magazine, 2024, 2023
