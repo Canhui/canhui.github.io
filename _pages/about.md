@@ -46,6 +46,8 @@ Recent news
 Academic activities
 ======
 
+<span style="color:red"> \[14 Aug 2026\] </span> Participate in the [2026 CCF CCD](https://ccf.org.cn/ccd2026), Kunming, China.
+
 <span style="color:red"> \[18 Dec 2025\] </span> Participate in the [2025 CCF CBCC](https://ccf.org.cn/cbcc2025), Shanghai, China.
 
 <span style="color:red"> \[13 Dec 2025\] </span> Participate in the [Fujian Provincial Computer Society 2025 Annual Academic Conference](https://www.hqu.edu.cn/info/1071/715843.htm), Xiamen, China.
