@@ -43,7 +43,7 @@ Recent news
 
 <br /><br />
 
-[25 Sep 2022] The paper "Dissecting Mining Pools of Bitcoin Network: Measurement, Analysis and Modeling" has been accepted by *IEEE Transactions on Network Science and Engineering* (CAS Zone 2, JCR Q1, IF 6.25).
+[25 Sep 2022] The paper "Dissecting Mining Pools of Bitcoin Network: Measurement, Analysis and Modeling" has been accepted by IEEE Transactions on Network Science and Engineering (CAS Zone 2, JCR Q1, IF 6.25).
 
 </details>
 
