@@ -22,24 +22,31 @@ Recent news
 
 <span style="color:red"> \[21 Jun 2025\] </span> Serve as a PC member on [IEEE MetaCom 2025](https://ieee-metacom.org/) of [Blockchain and Web 3.0](https://easychair.org/conferences2/submissions?a=34918422).
 
-<span style="color:red"> \[16 Sep 2024\] </span> Invite [Prof. Xiaowen Chu](https://repository.hkust.edu.hk/ir/AuthorProfile/chu-xiaowen) to give a talk at [Department of Computer Science and Technology, Huaqiao University](https://cst.hqu.edu.cn).  
-
-<span style="color:red"> \[12 Aug 2024\] </span> Give a talk at [Department of Informatics, Xiamen University](https://informatics.xmu.edu.cn/index.htm). Thanks [Prof. Yaobin Shen's](https://sites.google.com/view/yaobin) invitation.   
-
-<span style="color:red"> \[07 May 2024\] </span> Sponsored by the 5-year program of [Xiamen Funding Scheme for High-Level Overseas Chinese Students' Return](http://hrss.xm.gov.cn) -\- for the work on research and teaching with HQU in Xiamen.
-
-<span style="color:red"> \[11 Apr 2024\] </span> Serve as a Technical Program Committee (TPC) member on [IEEE/ACM IWQoS 2024](https://iwqos2024.ieee-iwqos.org/committees/technical-program-committee) (CCF-B) -\- for the work on blockchain-based networking and queuing theory-based modeling.
-
-
 <details>
 
 <summary>more</summary>
 
-[27 Sep 2023] Sponsored by the 3-year program of Research Talent Hub, Hong Kong Innovation and Technology Fund (RTH-ITF) -- for the work on applied cryptosystems with ASTRI in Hong Kong.
+[16 Sep 2024] Invite Prof. Xiaowen Chu to give a talk at Department of Computer Science and Technology, Huaqiao University.  
 
 <br /><br />
 
-[15 Jun 2023] Congratulations to a success of my Ph.D. dissertation defense -- for the contribution of quantitative analytics and long-term verifications by Prof. Xiaowen Chu and me on performance modeling and analysis of Bitcoin and Hyperledger Fabric blockchain distributed systems.
+[12 Aug 2024] Give a talk at Department of Informatics, Xiamen University. Thanks Prof. Yaobin Shen's invitation.   
+
+<br /><br />
+
+[07 May 2024] Sponsored by the 5-year program of Xiamen Funding Scheme for High-Level Overseas Chinese Students' Return for the work on research and teaching with HQU in Xiamen.
+
+<br /><br />
+
+[11 Apr 2024] Serve as a Technical Program Committee (TPC) member on IEEE/ACM IWQoS 2024 (CCF-B) for the work on blockchain-based networking and queuing theory-based modeling.
+
+<br /><br />
+
+[27 Sep 2023] Sponsored by the 3-year program of Research Talent Hub, Hong Kong Innovation and Technology Fund (RTH-ITF) for the work on applied cryptosystems with ASTRI in Hong Kong.
+
+<br /><br />
+
+[15 Jun 2023] Congratulations to a success of my Ph.D. dissertation defense for the contribution of quantitative analytics and long-term verifications by Prof. Xiaowen Chu and me on performance modeling and analysis of Bitcoin and Hyperledger Fabric blockchain distributed systems.
 
 <br /><br />
 
