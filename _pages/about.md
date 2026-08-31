@@ -14,7 +14,7 @@ Canhui Wang is currently a Lecturer (Research & Teaching) with Network and Infor
 Recent news
 ======
 
-<span style="color:red"> \[30 Aug 2026\] </span> The paper "Client-Driven Performance Model of Hyperledger Fabric Blockchain via Phase Decomposition" has been accepted by *IEEE Transactions on Network Science and Engineering* (CAS Zone 2, JCR Q1).
+<span style="color:red"> \[30 Aug 2026\] </span> The paper "Client-Driven Performance Model of Hyperledger Fabric Blockchain via Phase Decomposition" has been accepted by *IEEE Transactions on Network Science and Engineering* (CAS Zone 2, JCR Q1, IF 7.9).
 
 <span style="color:red"> \[15 Jul 2025\] </span> A research project supported by [Huaqiao University Research Startup Funds](https://kyy.hqu.edu.cn/) under Grant 25BS127.
 
@@ -40,6 +40,10 @@ Recent news
 <br /><br />
 
 [15 Jun 2023] Congratulations to a success of my Ph.D. dissertation defense -- for the contribution of quantitative analytics and long-term verifications by Prof. Xiaowen Chu and me on performance modeling and analysis of Bitcoin and Hyperledger Fabric blockchain distributed systems.
+
+<br /><br />
+
+[25 Sep 2022] The paper "Dissecting Mining Pools of Bitcoin Network: Measurement, Analysis and Modeling" has been accepted by *IEEE Transactions on Network Science and Engineering* (CAS Zone 2, JCR Q1, IF 6.25).
 
 </details>
 
