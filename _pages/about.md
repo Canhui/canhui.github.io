@@ -112,16 +112,11 @@ Reviewer (Journal)
 
 IEEE Transactions on Network and Service Management, 2026
 
-<br /><br />
-
 IEEE Network Magazine, 2026, 2024, 2023
 
 <br /><br />
 
 IEEE Transactions on Cloud Computing, 2025, 2024
-
-<br /><br />
-
 IEEE Transactions on Dependable and Secure Computing, 2025
 
 <br /><br />
