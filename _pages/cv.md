@@ -21,7 +21,7 @@ Work experience
   * Research Team: [Network Intelligent Computing](https://cst.hqu.edu.cn/info/1059/30931.htm)
   * Director: [Prof. Zhenguo GAO](https://www.x-mol.com/groups/AIot/people/55330)
   * Affiliation 1: Xiamen Key Laboratory of Data Security and Blockchain Technology
-  * Affiliation 2: Key Laboratory of Computer Vision and Machine Learning of Fujian Provincial Universities (Network and Application Intelligence Direction)
+  * Affiliation 2: Key Laboratory of Computer Vision and Machine Learning of Fujian Provincial Universities
 
 * Senior Engineer (PI), 2023/09-2024/05
   * Hong Kong Applied Science and Technology Research Institute

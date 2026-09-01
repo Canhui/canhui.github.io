@@ -13,6 +13,34 @@ author_profile: true
 
 ---
 
+# 2025-2026, Semester 3
+
+**高级计算机网络（Advanced Computer Networks）**, 48 lecture hours + 0 lab hours
+
+*Department of Computer Science and Technology, Huaqiao University (Xiamen), Summer Semester, 2026 Summer*
+
+[Course](https://faculty.hqu.edu.cn/WCH12/zh_CN/skxx/233670/list/index.htm)   [Material](https://faculty.hqu.edu.cn/WCH12/zh_CN/jxzy/233669/list/index.htm)
+
+---
+
+# 2025-2026, Semester 2
+
+**现代密码学（Modern Cryptography）**, 32 lecture hours + 0 lab hours
+
+*Department of Computer Science and Technology, Huaqiao University (Xiamen), Spring Semester, 2026 Spring*
+
+[Course](https://faculty.hqu.edu.cn/WCH12/zh_CN/skxx/233670/list/index.htm)   [Material](https://faculty.hqu.edu.cn/WCH12/zh_CN/jxzy/233669/list/index.htm)
+
+---
+
+**计算机技术前沿技术报告（Seminar）**, 4 lecture hours + 0 lab hours
+
+*Department of Computer Science and Technology, Huaqiao University (Xiamen), Spring Semester, 2026 Spring*
+
+[Course](https://faculty.hqu.edu.cn/WCH12/zh_CN/skxx/233670/list/index.htm)   [Material](https://faculty.hqu.edu.cn/WCH12/zh_CN/jxzy/233669/list/index.htm)
+
+---
+
 # 2025-2026, Semester 1
 
 **数据结构（Data Structures）**, 64 lecture hours + 21 lab hours
@@ -51,7 +79,7 @@ author_profile: true
 
 **网络安全专题选讲（Selected Topics in Cybersecurity）**, 2 lecture hours + 0 lab hours
 
-*Department of Computer Science and Technology, Huaqiao University (Xiamen), Third Semester, 2025 Summer*
+*Department of Computer Science and Technology, Huaqiao University (Xiamen), Summer Semester, 2025 Summer*
 
 [Course](https://faculty.hqu.edu.cn/WCH12/zh_CN/skxx/233670/list/index.htm)   [Material](https://faculty.hqu.edu.cn/WCH12/zh_CN/jxzy/233669/list/index.htm)
 
@@ -59,7 +87,7 @@ author_profile: true
 
 **学术讲座（Seminar）**, 1 lecture hours + 0 lab hours
 
-*Department of Computer Science and Technology, Huaqiao University (Xiamen), Third Semester, 2025 Summer*
+*Department of Computer Science and Technology, Huaqiao University (Xiamen), Summer Semester, 2025 Summer*
 
 [Course](https://faculty.hqu.edu.cn/WCH12/zh_CN/skxx/233670/list/index.htm)   [Material](https://faculty.hqu.edu.cn/WCH12/zh_CN/jxzy/233669/list/index.htm)
 

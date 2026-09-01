@@ -15,7 +15,7 @@ Canhui Wang is currently a Lecturer (Research & Teaching) with Network and Infor
 Recent news
 ======
 
-<span style="color:red"> \[30 Aug 2026\] </span> The paper "Client-Driven Performance Model of Hyperledger Fabric Blockchain via Phase Decomposition" has been accepted by *IEEE Transactions on Network Science and Engineering* (CAS Zone 2, JCR Q1, IF 7.9).
+<span style="color:red"> \[30 Aug 2026\] </span> The paper "Client-Driven Performance Model of Hyperledger Fabric Blockchain via Phase Decomposition" has been accepted by *IEEE Transactions on Network Science and Engineering* (<span style="color:blue">CAS Zone 2, JCR Q1, IF 7.9</span>).
 
 <span style="color:red"> \[15 Jul 2025\] </span> A research project supported by [Huaqiao University Research Startup Funds](https://kyy.hqu.edu.cn/) under Grant 25BS127.
 
@@ -85,39 +85,28 @@ Professional service
 ======
 * Reviewer (Journal)
   * IEEE Transactions on Network and Service Management, 2026
-  * IEEE Network Magazine, 2026, 2024, 2023
+  * IEEE Network Magazine, 2026, 2024
   * IEEE Transactions on Cloud Computing, 2025, 2024
   * IEEE Transactions on Dependable and Secure Computing, 2025
-  * IEEE Transactions on Big Data, 2023
 * Reviewer (Conference)
   * IEEE/ACM IWQoS, 2024
-  * IEEE HPCC, 2021
-* Technical Program Committee (Conference)
+* Technical Program Committee
   * IEEE/ACM IWQoS, 2024
-* Program Committee Member (Conference)
+* Program Committee Member
   * IEEE MetaCom of Blockchain and Web 3.0, 2025
-* Session Chair (Conference)
-  * AIPR 2025, 2023
+* Session Chair
+  * AIPR 2025
 
 
 <details>
 
 <summary>more</summary>
 
-* Vegetables
-
-Reviewer (Journal)
+* Reviewer (Journal)
 
 <br /><br />
 
-IEEE Transactions on Network and Service Management, 2026
-
-IEEE Network Magazine, 2026, 2024, 2023
-
-<br /><br />
-
-IEEE Transactions on Cloud Computing, 2025, 2024
-IEEE Transactions on Dependable and Secure Computing, 2025
+IEEE Network Magazine 2023
 
 <br /><br />
 
@@ -125,11 +114,7 @@ IEEE Transactions on Big Data, 2023
 
 <br /><br />
 
-### Reviewer (Conference)
-
-<br /><br />
-
-IEEE/ACM IWQoS, 2024
+* Reviewer (Conference)
 
 <br /><br />
 
@@ -137,27 +122,11 @@ IEEE HPCC, 2021
 
 <br /><br />
 
-Technical Program Committee (Conference)
+* Session Chair
 
 <br /><br />
 
-IEEE/ACM IWQoS, 2024
-
-<br /><br />
-
-Program Committee Member (Conference)
-
-<br /><br />
-
-IEEE MetaCom of Blockchain and Web 3.0, 2025
-
-<br /><br />
-
-Session Chair (Conference)
-
-<br /><br />
-
-AIPR 2025, 2023
+AIPR 2023
 
 </details>
 
@@ -206,7 +175,7 @@ Awards & prizes
 
 Research grants
 ======
-* Trusted Data Framework for Data Exchanges, ARD/294, Innovation and Technology Fund, Hong Kong, HKD\$2,799,000. Hosted by [Dr. Eric P. F. LAM](https://www.linkedin.com/in/peifunglam2/). (Remarks: Core Team Member, Full-Time Participation, 2023/09-2024/05).
+Trusted Data Framework for Data Exchanges, ARD/294, Innovation and Technology Fund, Hong Kong, HKD\$2,799,000. Hosted by [Dr. Eric P. F. LAM](https://www.linkedin.com/in/peifunglam2/). (Remarks: Core Team Member, Full-Time Participation, 2023/09-2024/05).
 
 <details>
 
@@ -219,4 +188,3 @@ Research grants
 Contact me
 ======
 Please contact me via E-mails: <ins>chwang@hqu.edu.cn</ins> or <ins>canhui_wang@qq.com</ins>. For more information, please find my [ORCID](https://orcid.org/0000-0001-7869-9083), [Google Scholar](https://scholar.google.com/citations?user=_pEPpkUAAAAJ), [Linkedin](https://www.linkedin.com/in/canhui-wang-ph-d-54a84017a/), and [Web of Science ResearcherID](https://www.webofscience.com/wos/author/record/HLX-9012-2023). 
-
