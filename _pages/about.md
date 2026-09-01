@@ -62,15 +62,15 @@ Recent news
 Academic activities
 ======
 
-<span style="color:red"> \[14 Aug 2026\] </span> Participate in the [2026 CCF CCD](https://ccf.org.cn/ccd2026), Kunming, China.
+[14 Aug 2026] Participate in the [2026 CCF CCD](https://ccf.org.cn/ccd2026), Kunming, China.
 
-<span style="color:red"> \[18 Dec 2025\] </span> Participate in the [2025 CCF CBCC](https://ccf.org.cn/cbcc2025), Shanghai, China.
+[18 Dec 2025] Participate in the [2025 CCF CBCC](https://ccf.org.cn/cbcc2025), Shanghai, China.
 
-<span style="color:red"> \[13 Dec 2025\] </span> Participate in the [Fujian Provincial Computer Society 2025 Annual Academic Conference](https://www.hqu.edu.cn/info/1071/715843.htm), Xiamen, China.
+[13 Dec 2025] Participate in the [Fujian Provincial Computer Society 2025 Annual Academic Conference](https://www.hqu.edu.cn/info/1071/715843.htm), Xiamen, China.
 
-<span style="color:red"> \[28 Nov 2025\] </span> Participate in the [2025 CCF ChinaSoft](https://chinasoft.ccf.org.cn/#home), Wuhan, China.
+[28 Nov 2025] Participate in the [2025 CCF ChinaSoft](https://chinasoft.ccf.org.cn/#home), Wuhan, China.
 
-<span style="color:red"> \[28 Aug 2025\] </span> Participate in the [2025 CCF ChinaStorage](https://ccf.org.cn/chinastorage2025), Wuhan, China.
+[28 Aug 2025] Participate in the [2025 CCF ChinaStorage](https://ccf.org.cn/chinastorage2025), Wuhan, China.
 
 <details>
 
@@ -104,6 +104,22 @@ Professional service
 
 <summary>more</summary>
 
+* Reviewer (Journal)
+  * IEEE Transactions on Network and Service Management, 2026
+  * IEEE Network Magazine, 2026, 2024, 2023
+  * IEEE Transactions on Cloud Computing, 2025, 2024
+  * IEEE Transactions on Dependable and Secure Computing, 2025
+  * IEEE Transactions on Big Data, 2023
+* Reviewer (Conference)
+  * IEEE/ACM IWQoS, 2024
+  * IEEE HPCC, 2021
+* Technical Program Committee (Conference)
+  * IEEE/ACM IWQoS, 2024
+* Program Committee Member (Conference)
+  * IEEE MetaCom of Blockchain and Web 3.0, 2025
+* Session Chair (Conference)
+  * AIPR 2025, 2023
+
 </details>
 
 <br />
@@ -117,12 +133,14 @@ Awards & prizes
 
 [Apr 2024] Third Prize, Teaching Competition of [A Wonderful Class](https://jsfz.hqu.edu.cn/info/1035/5114.htm), Department of Computer Science and Technology, Huaqiao University.
 
-[Sep 2023] Full [Research Talent Hub Sponsorship](https://www.itf.gov.hk/en/home/index.html), Innovation and Technology Fund, Hong Kong S.A.R.
-
 
 <details>
 
 <summary>more</summary>
+
+[Sep 2023] Full Research Talent Hub Sponsorship, Innovation and Technology Fund, Hong Kong S.A.R.
+
+<br /><br />
 
 [Dec 2020] Teaching-Assistant Performance Award, Design and Analysis of Algorithms, HKBU.
 
@@ -155,7 +173,7 @@ Research grants
 
 <summary>more</summary>
 
-* Trusted Data Framework for Data Exchanges, ARD/294, Innovation and Technology Fund, Hong Kong, HKD\$2,799,000. Hosted by [Dr. Eric P. F. LAM](https://www.linkedin.com/in/peifunglam2/). (Remarks: Core Team Member, Full-Time Participation, 2023/09-2024/05).
+* Trusted Data Framework for Data Exchanges, ARD/294, Innovation and Technology Fund, Hong Kong, HKD\$2,799,000. Hosted by Dr. Eric P. F. LAM. (Remarks: Core Team Member, Full-Time Participation, 2023/09-2024/05).
 
 </details>
 
