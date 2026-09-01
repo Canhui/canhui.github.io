@@ -100,6 +100,15 @@ Professional service
   * AIPR 2025, 2023
 
 
+<details>
+
+<summary>more</summary>
+
+</details>
+
+<br />
+
+
 Awards & prizes
 ======
 [Dec 2025] [Xiamen Key Talent Program (2025)](https://hrss.xm.gov.cn/xxgk/shgs/202512/t20251222_2973008.htm), Municipal Human Resources and Social Security Bureau, Xiamen.
@@ -142,6 +151,15 @@ Research grants
 ======
 * Trusted Data Framework for Data Exchanges, ARD/294, Innovation and Technology Fund, Hong Kong, HKD\$2,799,000. Hosted by [Dr. Eric P. F. LAM](https://www.linkedin.com/in/peifunglam2/). (Remarks: Core Team Member, Full-Time Participation, 2023/09-2024/05).
 
+<details>
+
+<summary>more</summary>
+
+* Trusted Data Framework for Data Exchanges, ARD/294, Innovation and Technology Fund, Hong Kong, HKD\$2,799,000. Hosted by [Dr. Eric P. F. LAM](https://www.linkedin.com/in/peifunglam2/). (Remarks: Core Team Member, Full-Time Participation, 2023/09-2024/05).
+
+</details>
+
+<br />
 
 Contact me
 ======
