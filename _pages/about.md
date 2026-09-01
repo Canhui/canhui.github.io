@@ -54,7 +54,6 @@ Recent news
 
 </details>
 
-<br />
 
 Academic activities
 ======
