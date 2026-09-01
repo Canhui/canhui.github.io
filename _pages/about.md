@@ -22,6 +22,7 @@ Recent news
 
 <span style="color:red"> \[21 Jun 2025\] </span> Serve as a PC member on [IEEE MetaCom 2025](https://ieee-metacom.org/) of [Blockchain and Web 3.0](https://easychair.org/conferences2/submissions?a=34918422).
 
+
 <details>
 
 <summary>more</summary>
@@ -54,6 +55,8 @@ Recent news
 
 </details>
 
+<br />
+
 
 Academic activities
 ======
@@ -73,6 +76,9 @@ Academic activities
 <summary>more</summary>
 
 </details>
+
+<br />
+
 
 Professional service
 ======
