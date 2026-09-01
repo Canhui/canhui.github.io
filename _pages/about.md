@@ -104,18 +104,26 @@ Professional service
 
 <summary>more</summary>
 
-* Reviewer (Journal)
-  * IEEE Transactions on Network and Service Management, 2026
-  * IEEE Network Magazine, 2026, 2024, 2023
-  * IEEE Transactions on Cloud Computing, 2025, 2024
+## Reviewer (Journal)
+
+IEEE Transactions on Network and Service Management, 2026
+
+IEEE Network Magazine, 2026, 2024, 2023
+
+IEEE Transactions on Cloud Computing, 2025, 2024
   * IEEE Transactions on Dependable and Secure Computing, 2025
   * IEEE Transactions on Big Data, 2023
-* Reviewer (Conference)
-  * IEEE/ACM IWQoS, 2024
-  * IEEE HPCC, 2021
-* Technical Program Committee (Conference)
-  * IEEE/ACM IWQoS, 2024
-* Program Committee Member (Conference)
+
+### Reviewer (Conference)
+IEEE/ACM IWQoS, 2024
+
+IEEE HPCC, 2021
+
+#### Technical Program Committee (Conference)
+
+IEEE/ACM IWQoS, 2024
+
+Program Committee Member (Conference)
   * IEEE MetaCom of Blockchain and Web 3.0, 2025
 * Session Chair (Conference)
   * AIPR 2025, 2023
@@ -172,8 +180,6 @@ Research grants
 <details>
 
 <summary>more</summary>
-
-* Trusted Data Framework for Data Exchanges, ARD/294, Innovation and Technology Fund, Hong Kong, HKD\$2,799,000. Hosted by Dr. Eric P. F. LAM. (Remarks: Core Team Member, Full-Time Participation, 2023/09-2024/05).
 
 </details>
 
