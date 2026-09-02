@@ -93,6 +93,7 @@ Professional service
 * Technical Program Committee
   * IEEE/ACM IWQoS, 2024
 * Program Committee Member
+  * IEEE International Conference on Progress in Informatics & Computing, 2026
   * IEEE MetaCom of Blockchain and Web 3.0, 2025
 * Session Chair
   * AIPR 2025
