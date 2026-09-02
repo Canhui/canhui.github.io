@@ -84,12 +84,12 @@ author:
   avatar           : "chwang.jpg" # "profile.png"
   bio              : "Lecturer (Research & Teaching) with Network and Information Security (NIS), the Department of Computer Science and Technology, Huaqiao University, Xiamen"
   location         : "Xiamen, China"
-  # employer         : "Hong Kong Baptist University"
+  employer         : "Huaqiao University"
   # #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  # googlescholar    : "https://scholar.google.com/citations?user=XuSVdhgAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=XuSVdhgAAAAJ"
   # email            : chwang@hqu.edu.cn
   # researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  # uri              :
+  uri              : "https://orcid.org/0000-0001-7869-9083"
   # bitbucket        :
   # codepen          :
   # dribbble         :
@@ -102,7 +102,7 @@ author:
   # impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   # lastfm           :
   # linkedin         :
-  # orcid            : "https://orcid.org/0000-0001-7869-9083"
+  orcid            : "https://orcid.org/0000-0001-7869-9083"
   # pinterest        : "canhuiwang"
   # soundcloud       :
   # stackoverflow    : # http://stackoverflow.com/users/123456/username
