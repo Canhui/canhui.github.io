@@ -84,25 +84,25 @@ author:
   avatar           : "chwang.jpg" # "profile.png"
   bio              : "Lecturer (Research & Teaching) with Network and Information Security (NIS), the Department of Computer Science and Technology, Huaqiao University, Xiamen"
   location         : "Xiamen, China"
-  employer         : "Huaqiao University"
+  # employer         : "Huaqiao University"
   # #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=XuSVdhgAAAAJ"
-  # email            : chwang@hqu.edu.cn
+  # googlescholar    : "https://scholar.google.com/citations?user=XuSVdhgAAAAJ"
+  # email            : "chwang@hqu.edu.cn"
   # researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              : "https://orcid.org/0000-0001-7869-9083"
+  uri              : "https://faculty.hqu.edu.cn/WCH12/zh_CN/index.htm"
   # bitbucket        :
   # codepen          :
   # dribbble         :
   # flickr           :
   # foursquare       :
   github           : "Canhui"
-  google_plus      : "grammarlychw@gmail.com"
+  # google_plus      : "grammarlychw@gmail.com"
   # keybase          :
   # instagram        :
   # impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   # lastfm           :
   # linkedin         :
-  orcid            : "https://orcid.org/0000-0001-7869-9083"
+  # orcid            : "https://orcid.org/0000-0001-7869-9083"
   # pinterest        : "canhuiwang"
   # soundcloud       :
   # stackoverflow    : # http://stackoverflow.com/users/123456/username
