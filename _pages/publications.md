@@ -27,7 +27,7 @@ author_profile: true
 
 <ins>Canhui Wang</ins> and Xiaowen Chu*
 
-*IEEE Transactions on Network Science and Engineering (TNSE), to appear (<span style="color:blue">SCI-Index, CAS Zone 2, JCR Q1, IF 7.9</span>)* 
+*IEEE Transactions on Network Science and Engineering (TNSE), to appear (<span style="color:blue">SCI-Index, CAS Zone 2, JCR Q1, IF 7.9</span>).* 
 
 [Paper to appear]() &nbsp; [Code](https://github.com/Canhui/Hyperledger_Fabric_Phase_Bench)
 
@@ -40,7 +40,7 @@ author_profile: true
 
 <ins>Canhui Wang</ins>; Xiaowen Chu*; Yang Qin
 
-*IEEE Transactions on Network Science and Engineering (TNSE), 2023 (<span style="color:blue">SCI-Index, CAS Zone 2, JCR Q1, IF 6.25</span>)* 
+*IEEE Transactions on Network Science and Engineering (TNSE), 2023 (<span style="color:blue">SCI-Index, CAS Zone 2, JCR Q1, IF 6.25</span>).* 
 
 [Paper](https://ieeexplore.ieee.org/abstract/document/9907879) &nbsp; [Appendix](https://github.com/Canhui/AppendixBTC/blob/main/Appendix.pdf) &nbsp; [Code](https://github.com/Canhui/AppendixBTC)
 
@@ -50,7 +50,7 @@ author_profile: true
 
 Ruonan Li; Yang Qin*; <ins>Canhui Wang</ins>; Mengya Li; Xiaowen Chu
 
-*IEEE Transactions on Industrial Informatics (TII), 2023 (<span style="color:blue">SCI-Index, CAS Zone 1, Top, JCR Q1, IF 11.648</span>)* 
+*IEEE Transactions on Industrial Informatics (TII), 2023 (<span style="color:blue">SCI-Index, CAS Zone 1, Top, JCR Q1, IF 11.648</span>).* 
 
 [Paper](https://ieeexplore.ieee.org/abstract/document/9904919)
 
@@ -65,7 +65,7 @@ Ruonan Li; Yang Qin*; <ins>Canhui Wang</ins>; Mengya Li; Xiaowen Chu
 
 <ins>Canhui Wang</ins>; Xiaowen Chu*
 
-*IEEE 40th International Conference on Distributed Computing Systems (ICDCS) Workshop, 2020 (<span style="color:blue">EI-Index, CCF B</span>)* 
+*IEEE 40th International Conference on Distributed Computing Systems (ICDCS) Workshop, 2020 (<span style="color:blue">EI-Index, CCF B</span>).* 
 
 [Paper](https://ieeexplore.ieee.org/document/9355625) &nbsp; [Code](https://github.com/Canhui/fabric-dbench)
 
@@ -75,7 +75,7 @@ Ruonan Li; Yang Qin*; <ins>Canhui Wang</ins>; Mengya Li; Xiaowen Chu
 
 <ins>Canhui Wang</ins>; Xiaowen Chu*; Yang Qin
 
-*The 6th International Conference on Big Data Computing and Communications (BIGCOM), 2020 (<span style="color:blue">EI-Index</span>)* 
+*The 6th International Conference on Big Data Computing and Communications (BIGCOM), 2020 (<span style="color:blue">EI-Index</span>).* 
 
 [Paper](https://ieeexplore.ieee.org/document/9160462) &nbsp; [Code](https://github.com/Canhui/Bitcoin_Mining_Pools) &nbsp; 
 
