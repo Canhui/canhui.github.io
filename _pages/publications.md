@@ -27,7 +27,7 @@ author_profile: true
 
 <ins>Canhui Wang</ins> and Xiaowen Chu*
 
-*IEEE Transactions on Network Science and Engineering (TNSE), to appear, Regular Papers* 
+*IEEE Transactions on Network Science and Engineering (TNSE), to appear (<span style="color:blue">CAS Zone 2, JCR Q1, IF 7.9</span>)* 
 
 [Paper to appear]() &nbsp; [Code](https://github.com/Canhui/Hyperledger_Fabric_Phase_Bench)
 
