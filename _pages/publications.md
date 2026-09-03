@@ -18,13 +18,23 @@ author_profile: true
 
  (The symbol * indicates corresponding author; A Full list: [Google Scholar](https://scholar.google.com/citations?user=_pEPpkUAAAAJ))
 
+---
+
+2026
+======
+
+**Client-Driven Performance Model of Hyperledger Fabric Blockchain via Phase Decomposition**
+
+<ins>Canhui Wang</ins> and Xiaowen Chu*
+
+*IEEE Transactions on Network Science and Engineering (TNSE), to appear, Regular Papers* 
+
+[Paper to appear]() &nbsp; [Code](https://github.com/Canhui/Hyperledger_Fabric_Phase_Bench)
 
 ---
 
 2023
 ======
-
-
 
 **Dissecting Mining Pools of Bitcoin Network: Measurement, Analysis and Modeling**
 
@@ -33,8 +43,6 @@ author_profile: true
 *IEEE Transactions on Network Science and Engineering (TNSE), 2023, Regular Papers* 
 
 [Paper](https://ieeexplore.ieee.org/abstract/document/9907879) &nbsp; [Appendix](https://github.com/Canhui/AppendixBTC/blob/main/Appendix.pdf) &nbsp; [Code](https://github.com/Canhui/AppendixBTC)
-
-
 
 ---
 
@@ -72,10 +80,3 @@ Ruonan Li; Yang Qin*; <ins>Canhui Wang</ins>; Mengya Li; Xiaowen Chu
 [Paper](https://ieeexplore.ieee.org/document/9160462) &nbsp; [Code](https://github.com/Canhui/Bitcoin_Mining_Pools) &nbsp; 
 
 ---
-
-
-
-
-
-
-
