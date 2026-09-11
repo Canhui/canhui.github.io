@@ -29,7 +29,7 @@ author_profile: true
 
 *IEEE Transactions on Network Science and Engineering (TNSE), to appear (<span style="color:blue">SCI-Index, CAS Zone 2, JCR Q1, IF 7.9</span>).* 
 
-[Paper to appear]() &nbsp; [Code](https://github.com/Canhui/Hyperledger_Fabric_Phase_Bench)
+[Paper](https://ieeexplore.ieee.org/document/11677710) &nbsp; [Code](https://github.com/Canhui/Hyperledger_Fabric_Phase_Bench)
 
 ---
 
