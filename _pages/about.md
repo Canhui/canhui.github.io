@@ -88,7 +88,7 @@ Professional service
 * Reviewer (Journal)
   * IEEE Transactions on Network and Service Management, 2026
   * IEEE Network Magazine, 2026, 2024
-  * IEEE Transactions on Cloud Computing, 2025, 2024
+  * IEEE Transactions on Cloud Computing, 2026, 2025, 2024
   * IEEE Transactions on Dependable and Secure Computing, 2025
 * Reviewer (Conference)
   * IEEE/ACM IWQoS, 2024
