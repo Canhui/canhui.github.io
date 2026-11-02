@@ -64,6 +64,8 @@ Recent news
 Academic activities
 ======
 
+[30 Oct 2026] Participate in the [2026 CCF Computility Seminar](https://conf.ccf.org.cn/web/api/m1554446266732253184179065047020.action), Jinan, China.
+
 [14 Aug 2026] Participate in the [2026 CCF CCD](https://ccf.org.cn/ccd2026), Kunming, China.
 
 [18 Dec 2025] Participate in the [2025 CCF CBCC](https://ccf.org.cn/cbcc2025), Shanghai, China.
