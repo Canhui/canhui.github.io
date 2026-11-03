@@ -72,9 +72,9 @@ Academic activities
 
 [13 Dec 2025] Participate in the [Fujian Provincial Computer Society 2025 Annual Academic Conference](https://www.hqu.edu.cn/info/1071/715843.htm), Xiamen, Fujian, China.
 
-[28 Nov 2025] Participate in the [2025 CCF ChinaSoft](https://chinasoft.ccf.org.cn/#home), Wuhan, China.
+[28 Nov 2025] Participate in the [2025 CCF ChinaSoft](https://chinasoft.ccf.org.cn/#home), Wuhan, Hubei, China.
 
-[28 Aug 2025] Participate in the [2025 CCF ChinaStorage](https://ccf.org.cn/chinastorage2025), Wuhan, China.
+[28 Aug 2025] Participate in the [2025 CCF ChinaStorage](https://ccf.org.cn/chinastorage2025), Wuhan, Hubei, China.
 
 <details>
 
