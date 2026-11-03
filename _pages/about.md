@@ -64,13 +64,13 @@ Recent news
 Academic activities
 ======
 
-[30 Oct 2026] Participate in the [2026 CCF Computility Seminar](https://conf.ccf.org.cn/web/api/m1554446266732253184179065047020.action), Jinan, China.
+[30 Oct 2026] Participate in the [2026 CCF Computility Seminar](https://conf.ccf.org.cn/web/api/m1554446266732253184179065047020.action), Jinan, Shandong, China.
 
-[14 Aug 2026] Participate in the [2026 CCF CCD](https://ccf.org.cn/ccd2026), Kunming, China.
+[14 Aug 2026] Participate in the [2026 CCF CCD](https://ccf.org.cn/ccd2026), Kunming, Yunnan, China.
 
 [18 Dec 2025] Participate in the [2025 CCF CBCC](https://ccf.org.cn/cbcc2025), Shanghai, China.
 
-[13 Dec 2025] Participate in the [Fujian Provincial Computer Society 2025 Annual Academic Conference](https://www.hqu.edu.cn/info/1071/715843.htm), Xiamen, China.
+[13 Dec 2025] Participate in the [Fujian Provincial Computer Society 2025 Annual Academic Conference](https://www.hqu.edu.cn/info/1071/715843.htm), Xiamen, Fujian, China.
 
 [28 Nov 2025] Participate in the [2025 CCF ChinaSoft](https://chinasoft.ccf.org.cn/#home), Wuhan, China.
 
