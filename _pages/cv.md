@@ -17,7 +17,7 @@ Education
 Work experience
 ======
 * Lecturer (Research & Teaching), 2023/12-Present
-  * Network and Information Security (NIS) Division, Department of Computer Science and Technology, Huaqiao University (Xiamen)
+  * Network and Information Security Division, Department of Computer Science and Technology, Huaqiao University (Xiamen)
   * Research Team: [Network Intelligent Computing](https://cst.hqu.edu.cn/info/1059/30931.htm)
   * Director: [Prof. Zhenguo GAO](https://www.x-mol.com/groups/AIot/people/55330)
   * Affiliation 1: Xiamen Key Laboratory of Data Security and Blockchain Technology
@@ -31,7 +31,7 @@ Work experience
 * Research Assistant, 2023/04-2023/07
   * Hong Kong Baptist University
   * Project on: User-Controlled Secure Data Sharing and Analytics with Blockchain and Trusted Computing Technologies
-  * Principal Investigator(s): [Prof. Jianliang Xu](https://www.comp.hkbu.edu.hk/~xujl/), <span style="color:blue">IEEE Fellow</span>, (with effect from 16 June 2023 to 24 Jul 2023), [Prof. Xiaowen Chu](https://www.comp.hkbu.edu.hk/~chxw/) (with effect from April 2023 to 15 June 2023)
+  * Principal Investigator(s): [Prof. Jianliang Xu](https://www.comp.hkbu.edu.hk/~xujl/), <span style="color:blue">IEEE Fellow</span>, with effect from 16 June 2023 to 24 Jul 2023, [Prof. Xiaowen Chu](https://www.comp.hkbu.edu.hk/~chxw/), with effect from April 2023 to 15 June 2023
 
 
 * Research Assistant, 2021/09-2023/04
@@ -41,18 +41,18 @@ Work experience
 
 * Teaching Assistant, 2021/01-2021/04
   * Hong Kong Baptist University
-  * Course on: Advanced Programming for Software Development (i.e., C++ object oriented programming and partially software engineering)
+  * Course on: Advanced Programming for Software Development, i.e., C++ object oriented programming and partially software engineering
   * Instructor: [Prof. Xiaowen Chu](https://www.comp.hkbu.edu.hk/~chxw/)
 
 * Teaching Assistant, 2020/09-2020/12
   * Hong Kong Baptist University
-  * Course on: Design and Analysis of Algorithms (i.e., Prof. Cheung and me gave weekly tutorials in class)
+  * Course on: Design and Analysis of Algorithms, i.e., Prof. Cheung and me gave weekly tutorials in class
   * <span style="color:blue">Award: Teaching-Assistant Performance Award</span>
   * Instructor: [Prof. Yiu Ming Cheung](https://www.comp.hkbu.edu.hk/~ymc/), <span style="color:blue">IEEE Fellow</span>
   
 * Teaching Assistant, 2020/01-2020/04
   * Hong Kong Baptist University
-  * Course on: Design and Analysis of Algorithms (i.e., Prof. Cheung and me gave weekly tutorials in class)
+  * Course on: Design and Analysis of Algorithms, i.e., Prof. Cheung and me gave weekly tutorials in class
   * <span style="color:blue">Award: Excellent Teaching-Assistant Performance Award</span>
   * Instructor: [Prof. Yiu Ming Cheung](https://www.comp.hkbu.edu.hk/~ymc/), <span style="color:blue">IEEE Fellow</span>
 
