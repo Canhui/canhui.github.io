@@ -105,17 +105,17 @@ Skills
 
 * RPG Student, 2018/01-2019/04
   * Hong Kong Baptist University
-  * Course on: Analytic Methods for Computer Science Research (i.e., linear programming and nonlinear convex optimization)
+  * Course on: Analytic Methods for Computer Science Research, i.e., linear programming and nonlinear convex optimization
   * Instructor: [Prof. Walter Gander](https://people.inf.ethz.ch/gander/)
 
 * RPG Student, 2017/01-2018/04
   * Hong Kong Baptist University
-  * Course on: Financial Analysis & Decision Making (i.e., financial analysis)
+  * Course on: Financial Analysis & Decision Making, i.e., financial analysis
   * Instructor: [Dr. Jean Hok Yin, Lai](https://www.comp.hkbu.edu.hk/v1/?page=profile&id=jeanlai)
 
 * RPG Student, 2017/09-2018/12
   * Hong Kong Baptist University
-  * Course on: Information Processing in Financial Services (i.e., financial concepts)
+  * Course on: Information Processing in Financial Services, i.e., financial concepts
   * Instructor: [Dr. Jean Hok Yin, Lai](https://www.comp.hkbu.edu.hk/v1/?page=profile&id=jeanlai)
 
 * RPG Student, 2017/09-2018/12
