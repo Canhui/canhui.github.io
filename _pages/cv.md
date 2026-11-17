@@ -17,7 +17,7 @@ Education
 Work experience
 ======
 * Lecturer (Research & Teaching), 2023/12-Present
-  * Network and Information Security Division, Department of Computer Science and Technology, Huaqiao University (Xiamen)
+  * Network and Information Security Division, Department of Computer Science and Technology, Huaqiao University, Xiamen
   * Research Team: [Network Intelligent Computing](https://cst.hqu.edu.cn/info/1059/30931.htm)
   * Director: [Prof. Zhenguo GAO](https://www.x-mol.com/groups/AIot/people/55330)
   * Affiliation 1: Xiamen Key Laboratory of Data Security and Blockchain Technology
